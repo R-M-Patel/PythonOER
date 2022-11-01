@@ -1,8 +1,8 @@
 # PythonOER
 An open resource for python information
 
-##Online Courses related to python
-Python Tutorial for Beginners [Link](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
+## Online Courses related to python
+- Python Tutorial for Beginners [Link](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
 Forbes Best Free online data science courses in 2019 (Link)
 Data Camp (Link) (Python plus more)
 Python Beginner Course - Breathe Code (Link)
