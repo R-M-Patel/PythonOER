@@ -21,6 +21,11 @@ An open resource for python information
 -   NR - good for introductory learners 
 SUNY OLI - [Link](https://oer.suny.edu/courses/principles-of-computation-with-python-oli/)
 
+## General References/Resources: 
+https://www.mastersindatascience.org/
+https://pythonhealthcare.org/ 
+https://datacarpentry.org/
+[Knowledge Tree](http://www.pitt.edu/~taler/KnowledgeTree.html) - Pitt
 
 Machine Learning
 -Standford certificate program https://online.stanford.edu/programs/artificial-intelligence-healthcare
