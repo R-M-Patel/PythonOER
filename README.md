@@ -55,7 +55,8 @@ SUNY OLI - [Link](https://oer.suny.edu/courses/principles-of-computation-with-py
 
 
 ## Books
-- Clinical Data as the Basic Staple of Health Learning: Creating and Protecting a Public Good: Workshop Summary (HSLS) 
+- Clinical Data as the Basic Staple of Health Learning: Creating and Protecting a Public Good: Workshop Summary [Link](https://pubmed.ncbi.nlm.nih.gov/21595112/) 
+  - Part of the "Learning Health System" series   
 - Neural Data Science : A Primer with MATLAB® and Python (Available via Pitt HSLS)
 - Python for Bioinformatics (Available via Pitt HSLS)
 - Python for Everybody - trinket Open book, [Link](https://books.trinket.io/pfe/)
@@ -68,6 +69,35 @@ SUNY OLI - [Link](https://oer.suny.edu/courses/principles-of-computation-with-py
 - Hands-On Data Analysis with Pandas: Efficiently Perform Data Collection, Wrangling, Analysis, and Visualization Using Python - [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT_INST/i25aoe/cdi_proquest_ebookcentral_EBC5842874) (Available via Pitt HSLS)
 - Python for data analysis : data wrangling with pandas, NumPy, and IPython - [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT_INST/e8h8hp/alma9998573136806236) (Available via Pitt HSLS)
 - Hands-On Data Visualization:  Interactive Storytelling from Spreadsheets to Code, Jack Dougherty Ilya Ilyankou - Open book available via GitHub [Link](https://handsondataviz.org/github.html)
+
+## Datasets
+
+Data sets
+- https://github.com/laderast/cvdRiskData - CVD risk data 
+- https://sleepdata.org/datasets
+- https://www.causeweb.org/tshs/category/dataset/ 
+- http://archive.ics.uci.edu/ml/index.php 
+- https://www.icpsr.umich.edu/web/pages/ICPSR/index.html
+- https://www.icpsr.umich.edu/web/instructors/biblio/resources 
+- Pediatric Intensive Care Data - [Link](http://pic.nbscn.org/)
+- Github example of prediction - [Link](https://github.com/Healthink/PIC)
+- NYU -  public data sets [Link](https://www.nyu.edu/about/policies-guidelines-compliance/policies-and-guidelines/ucaihs-policy-on-publicly-available-and-de-identified-data.html)
+- Berkley - (Link)[https://guides.lib.berkeley.edu/publichealth/healthstatistics/rawdata]
+- http://www.emrbots.org/
+- https://dataverse.harvard.edu/dataverse/ptmdemo
+- Synthetic EMR Data Set - http://www.emrbots.org/ ; R Bots 
+- Synthetic EMR Data Set - Synthethic Mass
+- https://nda.nih.gov/get/access-data.html - Summary information on the data shared in NDA is available in the NDA Query Tool without the need for an NDA user account.  To request access to record-level human subject data, you must submit a Data Access Request. 
+- IPUMS International - [Link](https://international.ipums.org/international-action/samples)
+- Harmonized International Census Data for Social Science and Health Research
+- Clinical Practice Research Datalink (CPRD) - [Link](https://www.cprd.com/)
+    - Proprietary, Limited Access
+- Sources for Data on Social Determinants of Health
+  - https://www.cdc.gov/socialdeterminants/data/index.htm 
+- Medical Imaging
+  - https://nda.nih.gov/oai/ - This website contains the permanent archive of the clinical data, patient reported outcomes, biospecimen analyses, quantitative image analyses, radiographs (X-Rays) and magnetic resonance images (MRIs) acquired during this study. There are longitudinal assessments and measurements from 4,796 subjects, with data from over 431,000 clinical and imaging visits, and almost 26,626,000 images in this archive. More than 400 research manuscripts have already been generated based on this data.
+- NHS prescribing data - [Link](https://www.nhsbsa.nhs.uk/prescription-data)
+- Mendeley data sets - [Link](https://data.mendeley.com/)
 
 Machine Learning
 -Standford certificate program https://online.stanford.edu/programs/artificial-intelligence-healthcare
