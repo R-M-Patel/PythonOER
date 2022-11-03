@@ -82,7 +82,7 @@ Data sets
 - Pediatric Intensive Care Data - [Link](http://pic.nbscn.org/)
 - Github example of prediction - [Link](https://github.com/Healthink/PIC)
 - NYU -  public data sets [Link](https://www.nyu.edu/about/policies-guidelines-compliance/policies-and-guidelines/ucaihs-policy-on-publicly-available-and-de-identified-data.html)
-- Berkley - (Link)[https://guides.lib.berkeley.edu/publichealth/healthstatistics/rawdata]
+- Berkley - [Link](https://guides.lib.berkeley.edu/publichealth/healthstatistics/rawdata)
 - http://www.emrbots.org/
 - https://dataverse.harvard.edu/dataverse/ptmdemo
 - Synthetic EMR Data Set - http://www.emrbots.org/ ; R Bots 
