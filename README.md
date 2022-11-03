@@ -27,7 +27,7 @@ SUNY OLI - [Link](https://oer.suny.edu/courses/principles-of-computation-with-py
 - https://datacarpentry.org/
 - [Knowledge Tree](http://www.pitt.edu/~taler/KnowledgeTree.html) - Pitt
 
-Others locations of information
+## Others locations of information
 - OHSU - Wiki that reviews other resources - [Main page](https://www.clinfowiki.org/wiki/index.php/Main_Page), [Article list](https://www.clinfowiki.org/wiki/index.php/Category:HI5313-2015-FALL)
 - ICS Lab Tutors - [Link](http://tutors.ics.uci.edu/index.php/0-python-resources/85-python-resources)
   - Python Exercises from a course (fundamentals, practice, quizes, exercises)
@@ -39,6 +39,35 @@ Others locations of information
   - List hosted on Github
 
 
+
+## Statistics Materials:
+- UTHealth - Biostatistics for the Clinician - [Link](https://www.uth.tmc.edu/uth_orgs/educ_dev/oser/L1_TOC.HTM)
+- Youtube - Brandon Fultz - [Link](https://www.youtube.com/user/BCFoltz)
+- Youtube “Stats Quest” - Josh Starmer - [Link](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
+- BMJ Statistics - [Link](https://www.bmj.com/about-bmj/resources-readers/publications/statistics-square-one)
+- Kenyon - Biology [Link](http://biology.kenyon.edu/courses/biol09/stats.htm)
+- Health KNowledge UK, Public Health Textbook, statistical methods section - [Link](https://www.healthknowledge.org.uk/public-health-textbook/research-methods/1b-statistical-methods)
+- StatR Analysis - Which test to choose - [Link](https://statranalysis.net/2015/07/27/choosing-the-correct-statistical-test/)
+- Medium, Towards Data Science - “Everything You Need To Know about Hypothesis Testing — Part II” - [Link](https://towardsdatascience.com/everything-you-need-to-know-about-hypothesis-testing-part-ii-f0526be27b7d)
+- Concordia University - “OER Statistics” - [Link](https://libguides.cu-portland.edu/OER/statistics)
+- Open UMich Introduction to Statistics - [Link](https://open.umich.edu/find/open-educational-resources/statistics/statistics-250-introduction-statistics-data-analysis)
+- OER Hopkins  “Introduction to Biostatistics” - [Link](http://ocw.jhsph.edu/index.cfm/go/viewCourse/course/introbiostats/coursePage/index/)
+
+
+## Books
+- Clinical Data as the Basic Staple of Health Learning: Creating and Protecting a Public Good: Workshop Summary (HSLS) 
+- Neural Data Science : A Primer with MATLAB® and Python (Available via Pitt HSLS)
+- Python for Bioinformatics (Available via Pitt HSLS)
+- Python for Everybody - trinket Open book, [Link](https://books.trinket.io/pfe/)
+  - Very easy to read
+- Hands-on exploratory data analysis with python : perform EDA techniques to understand, summarize, and investigate your data - [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT_INST/e8h8hp/alma9998513356906236) (Pitt ULS)
+- Hands-On Machine Learning with Python and Scikit-Learn - [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT_INST/e8h8hp/alma9998513356906236) (Available via Pitt HSLS, 2 hours of video)
+- Hands-On PySpark for Big Data Analysis - [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT_INST/e8h8hp/alma9998509818406236) (Available via Pitt HSLS)
+- Become a Python Data Analyst: Perform Exploratory Data Analysis and Gain Insight into Scientific Computing Using Python - [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT_INST/i25aoe/cdi_askewsholts_vlebooks_9781789534405) (Available via Pitt HSLS)
+- Learn Data Analysis with Python: Lessons in Coding - [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT_INST/i25aoe/cdi_askewsholts_vlebooks_9781484234860) (Available via Pitt HSLS)
+- Hands-On Data Analysis with Pandas: Efficiently Perform Data Collection, Wrangling, Analysis, and Visualization Using Python - [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT_INST/i25aoe/cdi_proquest_ebookcentral_EBC5842874) (Available via Pitt HSLS)
+- Python for data analysis : data wrangling with pandas, NumPy, and IPython - [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT_INST/e8h8hp/alma9998573136806236) (Available via Pitt HSLS)
+- Hands-On Data Visualization:  Interactive Storytelling from Spreadsheets to Code, Jack Dougherty Ilya Ilyankou - Open book available via GitHub [Link](https://handsondataviz.org/github.html)
 
 Machine Learning
 -Standford certificate program https://online.stanford.edu/programs/artificial-intelligence-healthcare
