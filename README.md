@@ -28,15 +28,15 @@ SUNY OLI - [Link](https://oer.suny.edu/courses/principles-of-computation-with-py
 - [Knowledge Tree](http://www.pitt.edu/~taler/KnowledgeTree.html) - Pitt
 
 Others locations of information
--OHSU - Wiki that reviews other resources - [Main page](https://www.clinfowiki.org/wiki/index.php/Main_Page), [Article list](https://www.clinfowiki.org/wiki/index.php/Category:HI5313-2015-FALL)
--ICS Lab Tutors - [Link](http://tutors.ics.uci.edu/index.php/0-python-resources/85-python-resources)
-  -Python Exercises from a course (fundamentals, practice, quizes, exercises)
--“The Ultimate Data Science Prerequisite Learning List” - [Link](https://towardsdatascience.com/the-ultimate-data-science-prerequisite-learning-list-348ce89805f9)
-  --List of List 
--ML YouTube Courses - [Link](https://github.com/dair-ai/ML-YouTube-Courses)
-  -Hosted on Github by DAIR.AI, includes brief outline of each below whole list 
--Best of ML with Python -[Link](https://github.com/ml-tooling/best-of-ml-python)
-  --List hosted on Github
+- OHSU - Wiki that reviews other resources - [Main page](https://www.clinfowiki.org/wiki/index.php/Main_Page), [Article list](https://www.clinfowiki.org/wiki/index.php/Category:HI5313-2015-FALL)
+- ICS Lab Tutors - [Link](http://tutors.ics.uci.edu/index.php/0-python-resources/85-python-resources)
+  - Python Exercises from a course (fundamentals, practice, quizes, exercises)
+- “The Ultimate Data Science Prerequisite Learning List” - [Link](https://towardsdatascience.com/the-ultimate-data-science-prerequisite-learning-list-348ce89805f9)
+  - List of List 
+- ML YouTube Courses - [Link](https://github.com/dair-ai/ML-YouTube-Courses)
+  - Hosted on Github by DAIR.AI, includes brief outline of each below whole list 
+- Best of ML with Python -[Link](https://github.com/ml-tooling/best-of-ml-python)
+  - List hosted on Github
 
 
 
