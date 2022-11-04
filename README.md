@@ -98,10 +98,10 @@ SUNY OLI - [Link](https://oer.suny.edu/courses/principles-of-computation-with-py
 - Mendeley data sets - [Link](https://data.mendeley.com/)
 
 ## Fun Reads / Videos
-Healthcare Data Analytics - Youtube Playlist
-Multiple topics/resources - High level summary of information that is very good 
-Topics from Universities like Duke, Johns Hopkins - [Link](https://www.youtube.com/watch?v=zMdPAwXX8-M&list=PLtkf1CzQAYcE6Ob6Yv6PLFQFIhvR7nWl8)
-Topic examples
+- Healthcare Data Analytics - Youtube Playlist
+- Multiple topics/resources - High level summary of information that is very good 
+- Topics from Universities like Duke, Johns Hopkins - [Link](https://www.youtube.com/watch?v=zMdPAwXX8-M&list=PLtkf1CzQAYcE6Ob6Yv6PLFQFIhvR7nWl8)
+  - Topic examples
 - O’Reilly Training - Youtube playlist [Link](https://www.youtube.com/channel/UCFvbB4_qLYRrOQNuFudz-Mg/search?query=python)
 - Bringing AI to the Underserved Billions - [Link](), Ted Talk 12 minutes
 - How to keep human bias out of AI - [Link](), Ted Talk 12 minutes 
