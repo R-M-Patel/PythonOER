@@ -103,6 +103,24 @@ Multiple topics/resources - High level summary of information that is very good
 Topics from Universities like Duke, Johns Hopkins - [Link](https://www.youtube.com/watch?v=zMdPAwXX8-M&list=PLtkf1CzQAYcE6Ob6Yv6PLFQFIhvR7nWl8)
 Topic examples
 - O’Reilly Training - Youtube playlist [Link](https://www.youtube.com/channel/UCFvbB4_qLYRrOQNuFudz-Mg/search?query=python)
+- Bringing AI to the Underserved Billions - [Link](), Ted Talk 12 minutes
+- How to keep human bias out of AI - [Link](), Ted Talk 12 minutes 
+- ONC Overview of HealthCare Data Analytics - [Link]() 20 minutes
+- Data Science in Healthcare, PyData NYC 2018  - [Link]()
+- BD2K - Exploratory Data Analysis - [Link]() 60 minutes  
+- University of Virginia, Exploratory Data Analysis”  - [Link]()  20 minutes 
+- HBR 
+  - Articles tagged with “Data” - [Link]()
+- “Use This Framework to Predict the Success of Your Big Data Project - [Link]()
+- Building a data science team - [Link]()
+- When Machine Learning Goes Off the Rails - [Link]()
+- Python for Industry Pharmaceuticals and Healthcare - [Link]() (4 minutes) 
+- Python vs R vs SAS, Simplilearn - [Link]() (20 minutes) 
+- Jill Cates - How to Build a Clinical Diagnostic Model in Python - PyCon 2019 [Link]() (25 minutes), Great video
+- “Feature Engineering of Electronic Medical Records”, Medium Article - [Link]()
+- Machine Learning Crash Course (Anaconda, 60 min) - [Link]()
+- What is Machine Learning (Google Cloud Platform, 5 min) - [Link]()
+- Machine learning without code in a browser (Google Cloud Platform, 10 min) - [Link]()
 
 -Standford certificate program https://online.stanford.edu/programs/artificial-intelligence-healthcare
 
