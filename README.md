@@ -18,8 +18,9 @@ An open resource for python information
     - Python for Everybody Specialization - [Link](https://www.coursera.org/specializations/python)
     - Applied Data Science with Python Specialization - [Link](https://www.coursera.org/specializations/data-science-python)
 - Kaggle
--   NR - good for introductory learners 
-SUNY OLI - [Link](https://oer.suny.edu/courses/principles-of-computation-with-python-oli/)
+  - NR - good for introductory learners 
+- SUNY OLI - [Link](https://oer.suny.edu/courses/principles-of-computation-with-python-oli/)
+- -Standford certificate program [Link](https://online.stanford.edu/programs/artificial-intelligence-healthcare)
 
 ## General References/Resources: 
 - https://www.mastersindatascience.org/
@@ -109,11 +110,12 @@ SUNY OLI - [Link](https://oer.suny.edu/courses/principles-of-computation-with-py
 - Data Science in Healthcare, PyData NYC 2018  - [Link](https://www.youtube.com/watch?v=Z9JZjc489XA)
 - BD2K - Exploratory Data Analysis - [Link](https://www.youtube.com/watch?v=5rTb6AkKhds) 60 minutes  
 - University of Virginia, Exploratory Data Analysis”  - [Link](https://www.youtube.com/watch?v=zHcQPKP6NpM)  20 minutes 
-- HBR 
+- Harvard Business Review 
   - Articles tagged with “Data” - [Link](https://hbr.org/topic/data)
   - “Use This Framework to Predict the Success of Your Big Data Project - [Link](https://hbr.org/2020/02/use-this-framework-to-predict-the-success-of-your-big-data-project)
   - Building a data science team - [Link](https://hbr.org/2018/10/managing-a-data-science-team)
   - When Machine Learning Goes Off the Rails - [Link](https://hbr.org/2021/01/when-machine-learning-goes-off-the-rails)
+  - “The Kinds of Data Scientist” - [Link](https://hbr.org/2018/11/the-kinds-of-data-scientist)
 - Python for Industry Pharmaceuticals and Healthcare - [Link](https://www.youtube.com/watch?v=doTMGOPK1Cw) (4 minutes) 
 - Python vs R vs SAS, Simplilearn - [Link](https://www.youtube.com/watch?v=HAvjZiAwCZg) (20 minutes) 
 - Jill Cates - How to Build a Clinical Diagnostic Model in Python - PyCon 2019 [Link](https://www.youtube.com/watch?v=9J83Pp9qH5w) (25 minutes), Great video
@@ -121,9 +123,5 @@ SUNY OLI - [Link](https://oer.suny.edu/courses/principles-of-computation-with-py
 - Machine Learning Crash Course (Anaconda, 60 min) - [Link](https://www.youtube.com/watch?v=n1BMtnBTjGY)
 - What is Machine Learning (Google Cloud Platform, 5 min) - [Link](https://youtu.be/HcqpanDadyQ)
 - Machine learning without code in a browser (Google Cloud Platform, 10 min) - [Link](https://www.youtube.com/watch?v=i9tjzr1KME0)
-
--Standford certificate program https://online.stanford.edu/programs/artificial-intelligence-healthcare
-
-
-Resources
-1. https://learn.microsoft.com/en-us/training/modules/create-host-web-sites-github-pages/5-summary
+- Python: Go From Rookie To Rockstar | by Abhishek Verma | Nov, 2021 - [Link](https://towardsdatascience.com/python-go-from-rookie-to-rockstar-d03fa07a32e8)
+  - Simple article that covers many basics of Python
