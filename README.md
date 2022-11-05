@@ -103,24 +103,24 @@ SUNY OLI - [Link](https://oer.suny.edu/courses/principles-of-computation-with-py
 - Topics from Universities like Duke, Johns Hopkins - [Link](https://www.youtube.com/watch?v=zMdPAwXX8-M&list=PLtkf1CzQAYcE6Ob6Yv6PLFQFIhvR7nWl8)
   - Topic examples
 - O’Reilly Training - Youtube playlist [Link](https://www.youtube.com/channel/UCFvbB4_qLYRrOQNuFudz-Mg/search?query=python)
-- Bringing AI to the Underserved Billions - [Link](), Ted Talk 12 minutes
-- How to keep human bias out of AI - [Link](), Ted Talk 12 minutes 
-- ONC Overview of HealthCare Data Analytics - [Link]() 20 minutes
-- Data Science in Healthcare, PyData NYC 2018  - [Link]()
-- BD2K - Exploratory Data Analysis - [Link]() 60 minutes  
-- University of Virginia, Exploratory Data Analysis”  - [Link]()  20 minutes 
+- Bringing AI to the Underserved Billions - [Link](https://www.ted.com/talks/dr_rahul_panicker_bringing_ai_to_the_underserved_billions), Ted Talk 12 minutes
+- How to keep human bias out of AI - [Link](https://www.ted.com/talks/kriti_sharma_how_to_keep_human_bias_out_of_ai), Ted Talk 12 minutes 
+- ONC Overview of HealthCare Data Analytics - [Link](https://www.youtube.com/watch?v=8vQWWNhjffc) 20 minutes
+- Data Science in Healthcare, PyData NYC 2018  - [Link](https://www.youtube.com/watch?v=Z9JZjc489XA)
+- BD2K - Exploratory Data Analysis - [Link](https://www.youtube.com/watch?v=5rTb6AkKhds) 60 minutes  
+- University of Virginia, Exploratory Data Analysis”  - [Link](https://www.youtube.com/watch?v=zHcQPKP6NpM)  20 minutes 
 - HBR 
-  - Articles tagged with “Data” - [Link]()
-- “Use This Framework to Predict the Success of Your Big Data Project - [Link]()
-- Building a data science team - [Link]()
-- When Machine Learning Goes Off the Rails - [Link]()
-- Python for Industry Pharmaceuticals and Healthcare - [Link]() (4 minutes) 
-- Python vs R vs SAS, Simplilearn - [Link]() (20 minutes) 
-- Jill Cates - How to Build a Clinical Diagnostic Model in Python - PyCon 2019 [Link]() (25 minutes), Great video
-- “Feature Engineering of Electronic Medical Records”, Medium Article - [Link]()
-- Machine Learning Crash Course (Anaconda, 60 min) - [Link]()
-- What is Machine Learning (Google Cloud Platform, 5 min) - [Link]()
-- Machine learning without code in a browser (Google Cloud Platform, 10 min) - [Link]()
+  - Articles tagged with “Data” - [Link](https://hbr.org/topic/data)
+  - “Use This Framework to Predict the Success of Your Big Data Project - [Link](https://hbr.org/2020/02/use-this-framework-to-predict-the-success-of-your-big-data-project)
+  - Building a data science team - [Link](https://hbr.org/2018/10/managing-a-data-science-team)
+  - When Machine Learning Goes Off the Rails - [Link](https://hbr.org/2021/01/when-machine-learning-goes-off-the-rails)
+- Python for Industry Pharmaceuticals and Healthcare - [Link](https://www.youtube.com/watch?v=doTMGOPK1Cw) (4 minutes) 
+- Python vs R vs SAS, Simplilearn - [Link](https://www.youtube.com/watch?v=HAvjZiAwCZg) (20 minutes) 
+- Jill Cates - How to Build a Clinical Diagnostic Model in Python - PyCon 2019 [Link](https://www.youtube.com/watch?v=9J83Pp9qH5w) (25 minutes), Great video
+  - “Feature Engineering of Electronic Medical Records”, Medium Article - [Link](https://medium.com/@topspinj/feature-engineering-of-electronic-medical-records-7447ee1c47b4)
+- Machine Learning Crash Course (Anaconda, 60 min) - [Link](https://www.youtube.com/watch?v=n1BMtnBTjGY)
+- What is Machine Learning (Google Cloud Platform, 5 min) - [Link](https://youtu.be/HcqpanDadyQ)
+- Machine learning without code in a browser (Google Cloud Platform, 10 min) - [Link](https://www.youtube.com/watch?v=i9tjzr1KME0)
 
 -Standford certificate program https://online.stanford.edu/programs/artificial-intelligence-healthcare
 
