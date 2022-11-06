@@ -125,3 +125,5 @@ An open resource for python information
 - Machine learning without code in a browser (Google Cloud Platform, 10 min) - [Link](https://www.youtube.com/watch?v=i9tjzr1KME0)
 - Python: Go From Rookie To Rockstar | by Abhishek Verma | Nov, 2021 - [Link](https://towardsdatascience.com/python-go-from-rookie-to-rockstar-d03fa07a32e8)
   - Simple article that covers many basics of Python
+
+## Literature
