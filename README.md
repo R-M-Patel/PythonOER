@@ -135,4 +135,16 @@ An open resource for python information
   -Python for language analysis
 - A validation of machine learning-based risk scores in the prehospital setting - [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226518)	
 - CHIME: COVID-19 Hospital Impact Model for Epidemics - [Link](https://codeforphilly.org/projects/chime)	
-
+- A machine learning approach predicts future risk to suicidal ideation from social media data - [Link](https://www.nature.com/articles/s41746-020-0287-6)	
+- “A dataset quantifying polypharmacy in the United States” - [Link](https://www.nature.com/articles/sdata2017167#MOESM187)	
+- Coding Errors in Study of Meta-analyses With Falsified Data in the Results” - [Link](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2772937)
+- “Developing a Natural Language Processing tool to identify perinatal self-harm in electronic healthcare records” - [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253809)	
+- “Artificial intelligence-assisted clinical decision support for childhood asthma management: A randomized clinical trial” - [Link](https://doi.org/10.1371/journal.pone.0255261)	
+- Prescriptive analytics for reducing 30-day hospital readmissions after general surgery - [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0238118)	
+    - Data from national group, available if a member (UPMC) 
+- Forecasting outbound student mobility: A machine learning approach - [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0238129)	
+  - Data from Taiwan
+- Use of social media big data as a novel HIV surveillance tool in South Africa -  [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0239304#sec017)	
+  - Consider recreating python code from web scraping as an exercise (library - tweepy) 
+- Forecasting seasonal influenza-like illness in South Korea after 2 and 30 weeks using Google Trends and influenza data from Argentina - [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0233855#sec002)	
+  - Interesting methods, would be able to recreate analysis but navigation is in Korea 
