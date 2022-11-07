@@ -127,3 +127,12 @@ An open resource for python information
   - Simple article that covers many basics of Python
 
 ## Literature
+### Journals, Collections 
+- Nature Journal - Scientific Data library - [Link](https://www.nature.com/sdata/)
+- 
+### Articles 
+- A Machine Learning Approach for the Detection and Characterization of Illicit Drug Dealers on Instagram: Model Evaluation Study - [Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6598421/)	
+  -Python for language analysis
+- A validation of machine learning-based risk scores in the prehospital setting - [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226518)	
+- CHIME: COVID-19 Hospital Impact Model for Epidemics - [Link](https://codeforphilly.org/projects/chime)	
+
