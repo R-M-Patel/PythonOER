@@ -129,7 +129,7 @@ An open resource for python information
 ## Literature
 ### Journals, Collections 
 - Nature Journal - Scientific Data library - [Link](https://www.nature.com/sdata/)
-- 
+- “Acquiring and Using Electronic Health Record Data” - [Link]([https://www.nature.com/sdata/](https://rethinkingclinicaltrials.org/resources/acquiring-and-using-electronic-health-record-data/)) 
 ### Articles 
 - A Machine Learning Approach for the Detection and Characterization of Illicit Drug Dealers on Instagram: Model Evaluation Study - [Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6598421/)	
   -Python for language analysis
