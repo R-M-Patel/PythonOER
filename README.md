@@ -148,3 +148,26 @@ An open resource for python information
   - Consider recreating python code from web scraping as an exercise (library - tweepy) 
 - Forecasting seasonal influenza-like illness in South Korea after 2 and 30 weeks using Google Trends and influenza data from Argentina - [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0233855#sec002)	
   - Interesting methods, would be able to recreate analysis but navigation is in Korea 
+- Characterizing electronic health record usage patterns of inpatient medicine residents using event log data - [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0205379)	
+  - Has [github link](https://github.com/HealthRex/CDSS/tree/master) but original in article not working, general case for use of python
+- Deep neural network models for identifying incident dementia using claims and EHR datasets - [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0236400)	
+  - Very technical but relevant outline, Pitt has access to Optum
+- Subtypes in patients with opioid misuse: A prognostic enrichment strategy using electronic health record data in hospitalized patients - [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0219717)	
+  - Focus on Latent class analysis (LCA), not many relevant code or ML info, does discuss NLP
+- Predicting adverse drug reactions of combined medication from heterogeneous pharmacologic databases - [Link](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2520-8)	
+  - Available data, implemented SVM and k-NN using sklearn (with downloadable code). Would just require some re-organizing of materials
+- Performance and clinical utility of supervised machine-learning approaches in detecting familial hypercholesterolaemia in primary care - [Link](https://www.nature.com/articles/s41746-020-00349-5)	
+  - Article with Github code link with R
+- Personalized prediction of early childhood asthma persistence: A machine learning approach - [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247784)	
+  - Github link to python code, in the article some pseudo code given, and some sample csv data files
+- Machine-learning-based prediction models for high-need high-cost patients using nationwide clinical and claims data - [Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7658979/)	
+  - UCLA+Japan, No data/code in the article 
+- Comparing machine learning algorithms for predicting ICU admission and mortality in COVID-19 - [Link](https://doi.org/10.1038/s41746-021-00456-x)	
+  - Great figure explaining the process
+- Teaching data science fundamentals through realistic synthetic clinical cardiovascular data - [Link](https://www.biorxiv.org/content/10.1101/232611v2.abstract)	
+  - Interesting review of how to teach data science 
+- Applications of machine learning to undifferentiated chest pain in the emergency department: A systematic review - [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0252612)	
+  - Relevant conclusion - Machine learning can be better than clinician but is rarely incorporated into practice 
+- Beyond performance metrics: modeling outcomes and cost for clinical machine learning - [Link](https://www.nature.com/articles/s41746-021-00495-4)	
+  - Editorial 
+- Clinical impact and quality of randomized controlled trials involving interventions evaluating artificial intelligence prediction tools: a systematic review - [Link](https://www.nature.com/articles/s41746-021-00524-2)
