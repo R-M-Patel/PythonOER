@@ -123,6 +123,8 @@ An open resource for python information
 - Machine Learning Crash Course (Anaconda, 60 min) - [Link](https://www.youtube.com/watch?v=n1BMtnBTjGY)
 - What is Machine Learning (Google Cloud Platform, 5 min) - [Link](https://youtu.be/HcqpanDadyQ)
 - Machine learning without code in a browser (Google Cloud Platform, 10 min) - [Link](https://www.youtube.com/watch?v=i9tjzr1KME0)
+- All My Pharmacy Students Learn to Code [Link](https://www.pharmacytimes.com/view/all-my-pharmacy-students-learn-to-code)
+  - Article by David Berkowitz about the role of learning skills for clinical students
 - Python: Go From Rookie To Rockstar | by Abhishek Verma | Nov, 2021 - [Link](https://towardsdatascience.com/python-go-from-rookie-to-rockstar-d03fa07a32e8)
   - Simple article that covers many basics of Python
 
