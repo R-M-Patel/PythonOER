@@ -100,6 +100,8 @@ An open resource for python information
 
 ## Fun Reads / Videos
 - Healthcare Data Analytics - Youtube Playlist
+- Machine Learning in Medicine - [Link] (http://ml-in-medicine.org/)
+  - Virutal Seminar series from CMU 
 - Multiple topics/resources - High level summary of information that is very good 
 - Topics from Universities like Duke, Johns Hopkins - [Link](https://www.youtube.com/watch?v=zMdPAwXX8-M&list=PLtkf1CzQAYcE6Ob6Yv6PLFQFIhvR7nWl8)
   - Topic examples
