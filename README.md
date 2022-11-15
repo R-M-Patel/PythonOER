@@ -5,7 +5,8 @@ An open resource for python information
 - https://www.mastersindatascience.org/
 - https://pythonhealthcare.org/ 
 - https://datacarpentry.org/
-- [Knowledge Tree](http://www.pitt.edu/~taler/KnowledgeTree.html) - Pitt
+- [Knowledge Tree](http://www.pitt.edu/~taler/KnowledgeTree.html) 
+  - Pitt resource from Dr. Peter Brusilovsky  
 
 ## Online Courses related to python
 - Forbes Best Free online data science courses in 2019 - [Link](https://www.forbes.com/sites/bernardmarr/2020/02/24/the-9-best-free-online-data-science-courses-in-2020/#669fdab32bbf)
@@ -16,10 +17,10 @@ An open resource for python information
 - Kaggle
   - Good for introductory learners 
 - SUNY OLI - [Link](https://oer.suny.edu/courses/principles-of-computation-with-python-oli/)
-- Standford certificate program [Link](https://online.stanford.edu/programs/artificial-intelligence-healthcare)
+- Standford certificate program - [Link](https://online.stanford.edu/programs/artificial-intelligence-healthcare)
 
 #### Coursera
-- Coursera - Python Genomic Data Science Specialization [Link](https://www.coursera.org/learn/python-genomics)
+- Coursera - Python Genomic Data Science Specialization - [Link](https://www.coursera.org/learn/python-genomics)
   - Machine Learning with Python - [Link](https://www.coursera.org/learn/machine-learning-with-python)
   - Data Analysis with Python - [Link](https://www.coursera.org/learn/data-analysis-with-python)
   - Python for Everybody Specialization - [Link](https://www.coursera.org/specializations/python)
@@ -27,13 +28,13 @@ An open resource for python information
   
 #### Youtube Content
 - Google Cloud Platform - [Link](https://www.youtube.com/user/googlecloudplatform/search?query=python)
-- Python Tutorial for Beginners [Link](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
+- Python Tutorial for Beginners - [Link](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
   - User "Telusko" ; 100 + lessons
-  - Download python, install python, using python IDE, IDLE, Pycharm IDE, notepad,  getting started with python, variables, functions, object, list in python, set in python, help in python, data types, operators, math function, run, debug python code, conditional statement, array, matrix in python, python by navin reddy
+  - Download/Install python, Using python, Getting started with python, Variables, Functions, Object, List in python and more  by navin reddy
   - Approx 10 - 15 minutes videos
 - Python Beginner Course - [Link](https://www.youtube.com/playlist?list=PLCVs_S8Skwp8MzELbLAm-v9wbUS-toTkt)
   - Basics of syntax ; Some specific exercises like building a random color generator
-- “Data Professor” - Python search playlist [Link](https://www.youtube.com/channel/UCV8e2g4IWQqK71bbzGDEI4Q/search?query=python)
+- “Data Professor” - Python search playlist - [Link](https://www.youtube.com/channel/UCV8e2g4IWQqK71bbzGDEI4Q/search?query=python)
 
 ## Others locations of information
 - OHSU - Wiki that reviews other resources - [Main page](https://www.clinfowiki.org/wiki/index.php/Main_Page), [Article list](https://www.clinfowiki.org/wiki/index.php/Category:HI5313-2015-FALL)
@@ -51,8 +52,8 @@ An open resource for python information
 - Youtube - Brandon Fultz - [Link](https://www.youtube.com/user/BCFoltz)
 - Youtube “Stats Quest” - Josh Starmer - [Link](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
 - BMJ Statistics - [Link](https://www.bmj.com/about-bmj/resources-readers/publications/statistics-square-one)
-- Kenyon - Biology [Link](http://biology.kenyon.edu/courses/biol09/stats.htm)
-- Health KNowledge UK, Public Health Textbook, statistical methods section - [Link](https://www.healthknowledge.org.uk/public-health-textbook/research-methods/1b-statistical-methods)
+- Kenyon - Biology - [Link](http://biology.kenyon.edu/courses/biol09/stats.htm)
+- Health Knowledge UK, Public Health Textbook, statistical methods section - [Link](https://www.healthknowledge.org.uk/public-health-textbook/research-methods/1b-statistical-methods)
 - StatR Analysis - Which test to choose - [Link](https://statranalysis.net/2015/07/27/choosing-the-correct-statistical-test/)
 - Medium, Towards Data Science - “Everything You Need To Know about Hypothesis Testing — Part II” - [Link](https://towardsdatascience.com/everything-you-need-to-know-about-hypothesis-testing-part-ii-f0526be27b7d)
 - Concordia University - “OER Statistics” - [Link](https://libguides.cu-portland.edu/OER/statistics)
@@ -61,11 +62,12 @@ An open resource for python information
 
 
 ## Books
-- Clinical Data as the Basic Staple of Health Learning: Creating and Protecting a Public Good: Workshop Summary [Link](https://pubmed.ncbi.nlm.nih.gov/21595112/) 
+- Clinical Data as the Basic Staple of Health Learning: Creating and Protecting a Public Good: Workshop Summary - [Link](https://pubmed.ncbi.nlm.nih.gov/21595112/) 
   - Part of the "Learning Health System" series   
 - Neural Data Science : A Primer with MATLAB® and Python (Available via Pitt HSLS)
-- Python for Bioinformatics (Available via Pitt HSLS)
-- Python for Everybody - trinket Open book, [Link](https://books.trinket.io/pfe/)
+- Python for Bioinformatics [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT_INST/1sjtb5p/alma9989579233406236) (Available via Pitt HSLS)
+- Python for Everybody - [Link](https://books.trinket.io/pfe/)
+  - Trinket Open book 
   - Very easy to read
 - Hands-on exploratory data analysis with python : perform EDA techniques to understand, summarize, and investigate your data - [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT_INST/e8h8hp/alma9998513356906236) (Pitt ULS)
 - Hands-On Machine Learning with Python and Scikit-Learn - [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT_INST/e8h8hp/alma9998513356906236) (Available via Pitt HSLS, 2 hours of video)
@@ -94,7 +96,7 @@ An open resource for python information
 - http://www.emrbots.org/
 - https://dataverse.harvard.edu/dataverse/ptmdemo
 - Synthetic EMR Data Set - http://www.emrbots.org/ ; R Bots 
-- Synthetic EMR Data Set - Synthethic Mass
+- Synthetic EMR Data Set - https://synthea.mitre.org/Synthethic ; Mitre Mass
 - https://nda.nih.gov/get/access-data.html 
 -   - Summary information on the data shared in NDA is available in the NDA Query Tool without the need for an NDA user account.  To request access to record-level human subject data, you must submit a Data Access Request. 
 - IPUMS International - [Link](https://international.ipums.org/international-action/samples)
@@ -109,8 +111,8 @@ An open resource for python information
 - Mendeley data sets - [Link](https://data.mendeley.com/)
 
 ## Fun Reads / Videos
-- Healthcare Data Analytics - Youtube Playlist
-- Machine Learning in Medicine - [Link] (http://ml-in-medicine.org/)
+- Healthcare Data Analytics - Youtube Playlist curated via the Pharmacy Innovation Lab
+- Machine Learning in Medicine - [Link](http://ml-in-medicine.org/)
   - Virutal Seminar series from CMU 
 - Multiple topics/resources - High level summary of information that is very good 
 - Topics from Universities like Duke, Johns Hopkins - [Link](https://www.youtube.com/watch?v=zMdPAwXX8-M&list=PLtkf1CzQAYcE6Ob6Yv6PLFQFIhvR7nWl8)
@@ -143,7 +145,8 @@ An open resource for python information
 ## Literature
 ### Journals, Collections 
 - Nature Journal - Scientific Data library - [Link](https://www.nature.com/sdata/)
-- “Acquiring and Using Electronic Health Record Data” - [Link]([https://www.nature.com/sdata/](https://rethinkingclinicaltrials.org/resources/acquiring-and-using-electronic-health-record-data/)) 
+- “Acquiring and Using Electronic Health Record Data” - [Link](https://rethinkingclinicaltrials.org/resources/acquiring-and-using-electronic-health-record-data/)) 
+  - From the NIH Pragmatic Trial Collaborative - RethinkingClinicalTrials
 ### Articles 
 - A Machine Learning Approach for the Detection and Characterization of Illicit Drug Dealers on Instagram: Model Evaluation Study - [Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6598421/)	
   -Python for language analysis
