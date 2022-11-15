@@ -16,16 +16,16 @@ An open resource for python information
 - Kaggle
   - Good for introductory learners 
 - SUNY OLI - [Link](https://oer.suny.edu/courses/principles-of-computation-with-python-oli/)
-- -Standford certificate program [Link](https://online.stanford.edu/programs/artificial-intelligence-healthcare)
+- Standford certificate program [Link](https://online.stanford.edu/programs/artificial-intelligence-healthcare)
 
-###Coursera
+#### Coursera
 - Coursera - Python Genomic Data Science Specialization [Link](https://www.coursera.org/learn/python-genomics)
   - Machine Learning with Python - [Link](https://www.coursera.org/learn/machine-learning-with-python)
   - Data Analysis with Python - [Link](https://www.coursera.org/learn/data-analysis-with-python)
   - Python for Everybody Specialization - [Link](https://www.coursera.org/specializations/python)
   - Applied Data Science with Python Specialization - [Link](https://www.coursera.org/specializations/data-science-python)
   
-### Youtube Content
+#### Youtube Content
 - Google Cloud Platform - [Link](https://www.youtube.com/user/googlecloudplatform/search?query=python)
 - Python Tutorial for Beginners [Link](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
   - User "Telusko" ; 100 + lessons
