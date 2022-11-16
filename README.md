@@ -129,7 +129,7 @@ An open resource for python information
 ## Fun Reads / Videos
 - Healthcare Data Analytics - Youtube Playlist curated via the Pharmacy Innovation Lab
 - Machine Learning in Medicine - [Link](http://ml-in-medicine.org/)
-  - Virutal Seminar series from CMU 
+  - Virutal Seminar series from Carnegie Mellon University 
 - O’Reilly Training - Youtube playlist [Link](https://www.youtube.com/channel/UCFvbB4_qLYRrOQNuFudz-Mg/search?query=python)
 - Bringing AI to the Underserved Billions - [Link](https://www.ted.com/talks/dr_rahul_panicker_bringing_ai_to_the_underserved_billions), Ted Talk 12 minutes
 - How to keep human bias out of AI - [Link](https://www.ted.com/talks/kriti_sharma_how_to_keep_human_bias_out_of_ai), Ted Talk 12 minutes 
@@ -152,14 +152,15 @@ An open resource for python information
 - Machine learning without code in a browser (Google Cloud Platform, 10 min) - [Link](https://www.youtube.com/watch?v=i9tjzr1KME0)
 - All My Pharmacy Students Learn to Code [Link](https://www.pharmacytimes.com/view/all-my-pharmacy-students-learn-to-code)
   - Article by David Berkowitz about the role of learning skills for clinical students
-- Python: Go From Rookie To Rockstar | by Abhishek Verma | Nov, 2021 - [Link](https://towardsdatascience.com/python-go-from-rookie-to-rockstar-d03fa07a32e8)
+- Python: Go From Rookie To Rockstar, by Abhishek Verma, Nov-2021 - [Link](https://towardsdatascience.com/python-go-from-rookie-to-rockstar-d03fa07a32e8)
   - Simple article that covers many basics of Python
 
 ## Literature
 ### Journals, Collections 
 - Nature Journal - Scientific Data library - [Link](https://www.nature.com/sdata/)
-- “Acquiring and Using Electronic Health Record Data” - [Link](https://rethinkingclinicaltrials.org/resources/acquiring-and-using-electronic-health-record-data/)) 
+- “Acquiring and Using Electronic Health Record Data” - [Link](https://rethinkingclinicaltrials.org/resources/acquiring-and-using-electronic-health-record-data/) 
   - From the NIH Pragmatic Trial Collaborative - RethinkingClinicalTrials
+
 ### Articles 
 - A Machine Learning Approach for the Detection and Characterization of Illicit Drug Dealers on Instagram: Model Evaluation Study - [Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6598421/)	
   -Python for language analysis
