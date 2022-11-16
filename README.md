@@ -2,12 +2,15 @@
 An open resource for python information
 
 #### Table of Contents
-## General Reference/Resources <a name="General References/Resources"></a>
+|Section|Description|
+| --- | --- |
+| General Reference/Resources <a name="General References/Resources"></a> | General information or meta resources|
 
 ## General References/Resources: 
 - https://www.mastersindatascience.org/
   - List of lists, approachable review of job titles, programs that teach data, and courses online; owned by 2U (edx)
 - https://datacarpentry.org/
+  - Great teaching and practice of fundamentals ; decreases barrier to entry , enable data-driven research 
 - [Knowledge Tree](http://www.pitt.edu/~taler/KnowledgeTree.html) 
   - Pitt resource from Dr. Peter Brusilovsky  
 - https://pythonhealthcare.org/  
@@ -19,10 +22,12 @@ An open resource for python information
   - Python plus many other languages 
 - Data Science Plus - [Link](https://datascienceplus.com/category/introduction/?tdo_tag=Python)
   - Impressive review of Stats Methods (Linear regression) )
-- Kaggle
-  - Good for introductory learners 
+- Kaggle - [Kaggle.com](https://www.kaggle.com/)
+  - Data science community with full and short courses ; public data sets ; public examples of data projects ; competitions, great resource for introductory learners 
 - SUNY OLI - [Link](https://oer.suny.edu/courses/principles-of-computation-with-python-oli/)
-- Standford certificate program - [Link](https://online.stanford.edu/programs/artificial-intelligence-healthcare)
+  - Open learning resources, Principles of Computation with Python, course with content/quizzes, includes porgramming/data/encryption/cellular automaton, has free access to view and requires free account for full features
+- Artificial Intelligence in Healthcare, Standford Certificate program - [Link](https://online.stanford.edu/programs/artificial-intelligence-healthcare)
+  - Four course series related to clinical data, fundamentals of ML for healthcare, Evaluation of AI in Healthcare, and Capstone
 
 #### Coursera
 - Coursera - Python Genomic Data Science Specialization - [Link](https://www.coursera.org/learn/python-genomics)
@@ -33,6 +38,7 @@ An open resource for python information
   
 #### Youtube Content
 - Google Cloud Platform - [Link](https://www.youtube.com/user/googlecloudplatform/search?query=python)
+  - Search of "Google Cloud Tech" for "python" yields lots of information about python as a language, as a data tool, and as an tool in technical (computer-science styled) applications
 - Python Tutorial for Beginners - [Link](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
   - User "Telusko" ; 100 + lessons
   - Download/Install python, Using python, Getting started with python, Variables, Functions, Object, List in python and more  by navin reddy
@@ -40,17 +46,20 @@ An open resource for python information
 - Python Beginner Course - [Link](https://www.youtube.com/playlist?list=PLCVs_S8Skwp8MzELbLAm-v9wbUS-toTkt)
   - Basics of syntax ; Some specific exercises like building a random color generator
 - “Data Professor” - Python search playlist - [Link](https://www.youtube.com/channel/UCV8e2g4IWQqK71bbzGDEI4Q/search?query=python)
+  - Vast array and breath/depth of topics in data science from single user including language specific content, conceptual videos, and interviews with others in data science
 
 ## Others locations of information
 - OHSU - Wiki that reviews other resources - [Main page](https://www.clinfowiki.org/wiki/index.php/Main_Page), [Article list](https://www.clinfowiki.org/wiki/index.php/Category:HI5313-2015-FALL)
+  - Mainly a review of clinical informatics (how does a clinician informaticists think about systems and data)
 - ICS Lab Tutors - [Link](http://tutors.ics.uci.edu/index.php/0-python-resources/85-python-resources)
   - Python Exercises from a course (fundamentals, practice, quizes, exercises)
 - “The Ultimate Data Science Prerequisite Learning List” - [Link](https://towardsdatascience.com/the-ultimate-data-science-prerequisite-learning-list-348ce89805f9)
   - List of List 
+  - Broad definition and application examples of math concepts in data science and high level review of programming in data science 
 - ML YouTube Courses - [Link](https://github.com/dair-ai/ML-YouTube-Courses)
   - Hosted on Github by DAIR.AI, includes brief outline of each below whole list 
 - Best of ML with Python -[Link](https://github.com/ml-tooling/best-of-ml-python)
-  - List hosted on Github
+  - List of open source machine learning projects hosted on Github
 
 ## Statistics Materials:
 - UTHealth - Biostatistics for the Clinician - [Link](https://www.uth.tmc.edu/uth_orgs/educ_dev/oser/L1_TOC.HTM)
@@ -69,7 +78,7 @@ An open resource for python information
 ## Books
 - Clinical Data as the Basic Staple of Health Learning: Creating and Protecting a Public Good: Workshop Summary - [Link](https://pubmed.ncbi.nlm.nih.gov/21595112/) 
   - Part of the "Learning Health System" series   
-- Neural Data Science : A Primer with MATLAB® and Python (Available via Pitt HSLS)
+- Neural Data Science : A Primer with MATLAB® and Python [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT_INST/e8h8hp/alma9991165313406236) (Available via Pitt HSLS)
 - Python for Bioinformatics [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT_INST/1sjtb5p/alma9989579233406236) (Available via Pitt HSLS)
 - Python for Everybody - [Link](https://books.trinket.io/pfe/)
   - Trinket Open book 
