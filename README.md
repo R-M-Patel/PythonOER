@@ -1,5 +1,7 @@
 # PythonOER
-An open resource for python information
+An open resource for python information. This was developed and curated as a resource related to healthcare, data science, and python. Scope creep abounds. Suggestions welcome. 
+
+Thanks for visiting. 
 
 #### Table of Contents
 |Section|Description|
