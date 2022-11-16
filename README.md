@@ -1,12 +1,17 @@
 # PythonOER
 An open resource for python information
 
+#### Table of Contents
+## General Reference/Resources <a name="General References/Resources"></a>
+
 ## General References/Resources: 
 - https://www.mastersindatascience.org/
-- https://pythonhealthcare.org/ 
+  - List of lists, approachable review of job titles, programs that teach data, and courses online; owned by 2U (edx)
 - https://datacarpentry.org/
 - [Knowledge Tree](http://www.pitt.edu/~taler/KnowledgeTree.html) 
   - Pitt resource from Dr. Peter Brusilovsky  
+- https://pythonhealthcare.org/  
+  - defunct, 2022
 
 ## Online Courses related to python
 - Forbes Best Free online data science courses in 2019 - [Link](https://www.forbes.com/sites/bernardmarr/2020/02/24/the-9-best-free-online-data-science-courses-in-2020/#669fdab32bbf)
