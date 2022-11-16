@@ -47,6 +47,8 @@ An open resource for python information
   - Basics of syntax ; Some specific exercises like building a random color generator
 - “Data Professor” - Python search playlist - [Link](https://www.youtube.com/channel/UCV8e2g4IWQqK71bbzGDEI4Q/search?query=python)
   - Vast array and breath/depth of topics in data science from single user including language specific content, conceptual videos, and interviews with others in data science
+- "Healthcare Data Analytics" - [Link](https://www.youtube.com/watch?v=zMdPAwXX8-M&list=PLtkf1CzQAYcE6Ob6Yv6PLFQFIhvR7nWl8)
+  - Tools as a resource "Health IT Curriculum Resources for Educators" from HealthIT.gov's Workflow Development program
 
 ## Others locations of information
 - OHSU - Wiki that reviews other resources - [Main page](https://www.clinfowiki.org/wiki/index.php/Main_Page), [Article list](https://www.clinfowiki.org/wiki/index.php/Category:HI5313-2015-FALL)
@@ -78,7 +80,7 @@ An open resource for python information
 ## Books
 - Clinical Data as the Basic Staple of Health Learning: Creating and Protecting a Public Good: Workshop Summary - [Link](https://pubmed.ncbi.nlm.nih.gov/21595112/) 
   - Part of the "Learning Health System" series   
-- Neural Data Science : A Primer with MATLAB® and Python [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT_INST/e8h8hp/alma9991165313406236) (Available via Pitt HSLS)
+- Neural Data Science : A Primer with MATLAB® and Python - [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT_INST/e8h8hp/alma9991165313406236) (Available via Pitt HSLS)
 - Python for Bioinformatics [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT_INST/1sjtb5p/alma9989579233406236) (Available via Pitt HSLS)
 - Python for Everybody - [Link](https://books.trinket.io/pfe/)
   - Trinket Open book 
@@ -90,7 +92,7 @@ An open resource for python information
 - Learn Data Analysis with Python: Lessons in Coding - [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT_INST/i25aoe/cdi_askewsholts_vlebooks_9781484234860) (Available via Pitt HSLS)
 - Hands-On Data Analysis with Pandas: Efficiently Perform Data Collection, Wrangling, Analysis, and Visualization Using Python - [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT_INST/i25aoe/cdi_proquest_ebookcentral_EBC5842874) (Available via Pitt HSLS)
 - Python for data analysis : data wrangling with pandas, NumPy, and IPython - [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT_INST/e8h8hp/alma9998573136806236) (Available via Pitt HSLS)
-- Hands-On Data Visualization:  Interactive Storytelling from Spreadsheets to Code, Jack Dougherty Ilya Ilyankou - Open book available via GitHub [Link](https://handsondataviz.org/github.html)
+- Hands-On Data Visualization:  Interactive Storytelling from Spreadsheets to Code, Jack Dougherty Ilya Ilyankou - Open book available via GitHub - [Link](https://handsondataviz.org/github.html)
 
 ## Datasets
 - https://github.com/laderast/cvdRiskData 
@@ -128,9 +130,6 @@ An open resource for python information
 - Healthcare Data Analytics - Youtube Playlist curated via the Pharmacy Innovation Lab
 - Machine Learning in Medicine - [Link](http://ml-in-medicine.org/)
   - Virutal Seminar series from CMU 
-- Multiple topics/resources - High level summary of information that is very good 
-- Topics from Universities like Duke, Johns Hopkins - [Link](https://www.youtube.com/watch?v=zMdPAwXX8-M&list=PLtkf1CzQAYcE6Ob6Yv6PLFQFIhvR7nWl8)
-  - Topic examples
 - O’Reilly Training - Youtube playlist [Link](https://www.youtube.com/channel/UCFvbB4_qLYRrOQNuFudz-Mg/search?query=python)
 - Bringing AI to the Underserved Billions - [Link](https://www.ted.com/talks/dr_rahul_panicker_bringing_ai_to_the_underserved_billions), Ted Talk 12 minutes
 - How to keep human bias out of AI - [Link](https://www.ted.com/talks/kriti_sharma_how_to_keep_human_bias_out_of_ai), Ted Talk 12 minutes 
@@ -202,3 +201,6 @@ An open resource for python information
 - Beyond performance metrics: modeling outcomes and cost for clinical machine learning - [Link](https://www.nature.com/articles/s41746-021-00495-4)	
   - Editorial 
 - Clinical impact and quality of randomized controlled trials involving interventions evaluating artificial intelligence prediction tools: a systematic review - [Link](https://www.nature.com/articles/s41746-021-00524-2)
+
+
+Edit Notes - This is a living list with updates and edits, last updated: Nov 2022
