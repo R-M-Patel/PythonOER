@@ -204,6 +204,8 @@ Thanks for visiting.
 - Beyond performance metrics: modeling outcomes and cost for clinical machine learning - [Link](https://www.nature.com/articles/s41746-021-00495-4)	
   - Editorial 
 - Clinical impact and quality of randomized controlled trials involving interventions evaluating artificial intelligence prediction tools: a systematic review - [Link](https://www.nature.com/articles/s41746-021-00524-2)
+- Using machine learning to study the effect of medication adherence in Opioid Use Disorder [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0278988)
+  - Comparison of machine learning approaches (XGBoost, Logistic Regression) for outcomes
 
 
 Edit Notes - This is a living list with updates and edits, last updated: Nov 2022
