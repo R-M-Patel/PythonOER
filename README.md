@@ -206,6 +206,7 @@ Thanks for visiting.
 - Clinical impact and quality of randomized controlled trials involving interventions evaluating artificial intelligence prediction tools: a systematic review - [Link](https://www.nature.com/articles/s41746-021-00524-2)
 - Using machine learning to study the effect of medication adherence in Opioid Use Disorder [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0278988)
   - Comparison of machine learning approaches (XGBoost, Logistic Regression) for outcomes
+ - Adverse drug event detection using natural language processing: A scoping review of supervised learning methods [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0278988)
+  - Disucssion of how NLP concepts apply to detection in clinical notes/narratives
 
-
-Edit Notes - This is a living list with updates and edits, last updated: Nov 2022
+Edit Notes - This is a living list with updates and edits, last updated: Jan 2023
