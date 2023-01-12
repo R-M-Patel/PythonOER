@@ -157,6 +157,8 @@ Thanks for visiting.
   - Article by David Berkowitz about the role of learning skills for clinical students
 - Python: Go From Rookie To Rockstar, by Abhishek Verma, Nov-2021 - [Link](https://towardsdatascience.com/python-go-from-rookie-to-rockstar-d03fa07a32e8)
   - Simple article that covers many basics of Python
+- Data Science Solutions for Digital Healthcare - [Link](https://www.knime.com/blog/7-data-science-solutions-in-digital-healthcare)
+  - Collection of low/no code workflows when working with KNIME Platform. ex. Vanco dosing in obesity, Predicting patient glucose levels, Natural Language Processing for disease tagging in literature. 
 
 ## Literature
 ### Journals, Collections 
