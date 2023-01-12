@@ -95,6 +95,7 @@ Thanks for visiting.
 - Hands-On Data Analysis with Pandas: Efficiently Perform Data Collection, Wrangling, Analysis, and Visualization Using Python - [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT_INST/i25aoe/cdi_proquest_ebookcentral_EBC5842874) (Available via Pitt HSLS)
 - Python for data analysis : data wrangling with pandas, NumPy, and IPython - [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT_INST/e8h8hp/alma9998573136806236) (Available via Pitt HSLS)
 - Hands-On Data Visualization:  Interactive Storytelling from Spreadsheets to Code, Jack Dougherty Ilya Ilyankou - Open book available via GitHub - [Link](https://handsondataviz.org/github.html)
+-Codeless Deep Learning with KNIME: Build, train, and deploy various deep neural network architectures using KNIME Analytics Platform - [Link](https://www.knime.com/codeless-deep-learning-book)
 
 ## Datasets
 - https://github.com/laderast/cvdRiskData 
