@@ -30,6 +30,8 @@ Thanks for visiting.
   - Open learning resources, Principles of Computation with Python, course with content/quizzes, includes porgramming/data/encryption/cellular automaton, has free access to view and requires free account for full features
 - Artificial Intelligence in Healthcare, Standford Certificate program - [Link](https://online.stanford.edu/programs/artificial-intelligence-healthcare)
   - Four course series related to clinical data, fundamentals of ML for healthcare, Evaluation of AI in Healthcare, and Capstone
+- Learning Python: basic level [Link](https://github.com/kgdunn/python-basic-notebooks)
+  - Kevin Dunn's fantastic review of concepts. From the site: The topics listed below give an idea of what is covered. Within in each notebook are a series of simple or more challenging problems. The problems are designed to build on the topics just learned, as well as the topics from earlier notebooks.
 
 #### Coursera
 - Coursera - Python Genomic Data Science Specialization - [Link](https://www.coursera.org/learn/python-genomics)
@@ -167,6 +169,9 @@ Thanks for visiting.
   - From the NIH Pragmatic Trial Collaborative - RethinkingClinicalTrials
 
 ### Articles 
+- How to Read Articles That Use Machine Learning
+Users’ Guides to the Medical Literature - [Link] (https://jamanetwork.com/journals/jama/fullarticle/2754798)	
+  -Helpful review of concepts related to machine learning in clinical contexts 
 - A Machine Learning Approach for the Detection and Characterization of Illicit Drug Dealers on Instagram: Model Evaluation Study - [Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6598421/)	
   -Python for language analysis
 - A validation of machine learning-based risk scores in the prehospital setting - [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226518)	
@@ -209,7 +214,9 @@ Thanks for visiting.
 - Clinical impact and quality of randomized controlled trials involving interventions evaluating artificial intelligence prediction tools: a systematic review - [Link](https://www.nature.com/articles/s41746-021-00524-2)
 - Using machine learning to study the effect of medication adherence in Opioid Use Disorder [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0278988)
   - Comparison of machine learning approaches (XGBoost, Logistic Regression) for outcomes
- - Adverse drug event detection using natural language processing: A scoping review of supervised learning methods [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0278988)
+- Adverse drug event detection using natural language processing: A scoping review of supervised learning methods [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0278988)
   - Disucssion of how NLP concepts apply to detection in clinical notes/narratives
+- Long-term Effect of Machine Learning-Triggered Behavioral Nudges on Serious Illness Conversations and End-of-Life Outcomes Among Patients With Cancer: A Randomized Clinical Trial [Link](https://pubmed.ncbi.nlm.nih.gov/36633868/)
+  - Interesting application of machine learning for behavioral nudges of prompting serious illness conversations
 
 Edit Notes - This is a living list with updates and edits, last updated: Jan 2023
