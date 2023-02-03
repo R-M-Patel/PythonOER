@@ -161,6 +161,8 @@ Thanks for visiting.
   - Simple article that covers many basics of Python
 - Data Science Solutions for Digital Healthcare - [Link](https://www.knime.com/blog/7-data-science-solutions-in-digital-healthcare)
   - Collection of low/no code workflows when working with KNIME Platform. ex. Vanco dosing in obesity, Predicting patient glucose levels, Natural Language Processing for disease tagging in literature. 
+- Data Literacy for the Busy Libarian - [Link](https://www.youtube.com/playlist?list=PL1k4bdjLd7TDoHF732Oi9DGqHGk_eOKf4)
+  - 10 videos from National Librarian of Medicine (Shout out Nancy Shin from UWashington) that covers Data life cycle, documentation, standards, SNOMED, RxNorm, UMLS, Data security, Data sharing, Visualizations. Videos are 5-20 minutes. Easy to understand and great introductions.
 
 ## Literature
 ### Journals, Collections 
