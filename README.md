@@ -220,7 +220,7 @@ Users’ Guides to the Medical Literature - [Link](https://jamanetwork.com/journ
   - Disucssion of how NLP concepts apply to detection in clinical notes/narratives
 - Long-term Effect of Machine Learning-Triggered Behavioral Nudges on Serious Illness Conversations and End-of-Life Outcomes Among Patients With Cancer: A Randomized Clinical Trial [Link](https://pubmed.ncbi.nlm.nih.gov/36633868/)
   - Interesting application of machine learning for behavioral nudges of prompting serious illness conversations
-- - Predicting physician departure with machine learning on EHR use patterns: A longitudinal cohort from a large multi-specialty ambulatory practice [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280251)
+- Predicting physician departure with machine learning on EHR use patterns: A longitudinal cohort from a large multi-specialty ambulatory practice [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280251)
   - Uses XGBoost for predication, Shapley Additive Explanations (SHAP) used for feature contribution. The neat component is the granualar detail (though without the data) from the cleaning process available on [Github](https://github.com/kevkid/physician_retention_2.0)
 
 
