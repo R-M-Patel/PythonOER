@@ -68,9 +68,10 @@ Thanks for visiting.
   - List of open source machine learning projects hosted on Github
 
 ## Statistics Materials:
+- Youtube “Stats Quest” - Josh Starmer - [Link](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
+  - Execellent review in breadth and depth of topics. Videos like ["Gentle Introduction to Machine Learning"](https://www.youtube.com/watch?v=Gv9_4yMHFhI) are immensely valuable to new learners. 
 - UTHealth - Biostatistics for the Clinician - [Link](https://www.uth.tmc.edu/uth_orgs/educ_dev/oser/L1_TOC.HTM)
 - Youtube - Brandon Fultz - [Link](https://www.youtube.com/user/BCFoltz)
-- Youtube “Stats Quest” - Josh Starmer - [Link](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
 - BMJ Statistics - [Link](https://www.bmj.com/about-bmj/resources-readers/publications/statistics-square-one)
 - Kenyon - Biology - [Link](http://biology.kenyon.edu/courses/biol09/stats.htm)
 - Health Knowledge UK, Public Health Textbook, statistical methods section - [Link](https://www.healthknowledge.org.uk/public-health-textbook/research-methods/1b-statistical-methods)
@@ -222,6 +223,7 @@ Users’ Guides to the Medical Literature - [Link](https://jamanetwork.com/journ
   - Interesting application of machine learning for behavioral nudges of prompting serious illness conversations
 - Predicting physician departure with machine learning on EHR use patterns: A longitudinal cohort from a large multi-specialty ambulatory practice [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280251)
   - Uses XGBoost for predication, Shapley Additive Explanations (SHAP) used for feature contribution. The neat component is the granualar detail (though without the data) from the cleaning process available on [Github](https://github.com/kevkid/physician_retention_2.0)
-
+- Machine learning to improve frequent emergency department use prediction: a retrospective cohort study [Link](https://www.nature.com/articles/s41598-023-27568-6)
+  - Tested models against each other: Gradient boosting machines (GBM); Naïve Bayes (NB); Neural networks (NN); Random forests (RF). Similar to other studies, no model clearly outperformed the others.
 
 Edit Notes - This is a living list with updates and edits, last updated: Jan 2023
