@@ -11,11 +11,11 @@ Thanks for visiting.
 ## General References/Resources: 
 - <https://www.mastersindatascience.org/>
   - List of lists, approachable review of job titles, programs that teach data, and courses online; owned by 2U (edx)
-- [https://datacarpentry.org/]
+- <https://datacarpentry.org/>
   - Great teaching and practice of fundamentals ; decreases barrier to entry , enable data-driven research 
 - [Knowledge Tree](http://www.pitt.edu/~taler/KnowledgeTree.html) 
   - Pitt resource from Dr. Peter Brusilovsky  
-- https://pythonhealthcare.org/  
+- <https://pythonhealthcare.org.
   - defunct, 2022
 
 ## Online Courses related to python
