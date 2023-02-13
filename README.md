@@ -165,6 +165,13 @@ Thanks for visiting.
 - Data Literacy for the Busy Libarian - [Link](https://www.youtube.com/playlist?list=PL1k4bdjLd7TDoHF732Oi9DGqHGk_eOKf4)
   - 10 videos from National Librarian of Medicine (Shout out Nancy Shin from UWashington) that covers Data life cycle, documentation, standards, SNOMED, RxNorm, UMLS, Data security, Data sharing, Visualizations. Videos are 5-20 minutes. Easy to understand and great introductions.
 
+## Cases
+### Example applications or tests of knowledge/skills
+ - Public vs. Private payer data sets [Link](https://github.com/domdisanto/Python_OER)
+  - Comparing patient records at a sample data set from public vs. private payers
+  - Considerations of medication and classification of opioids
+  - Created by [Dominic DiSanto](https://www.linkedin.com/in/dominic-disanto) as a part of a PittSeeds Open Education Grant 
+
 ## Literature
 ### Journals, Collections 
 - Nature Journal - Scientific Data library - [Link](https://www.nature.com/sdata/)
