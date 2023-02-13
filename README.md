@@ -4,9 +4,7 @@ An open resource for python information. This was developed and curated as a res
 Thanks for visiting. 
 
 #### Table of Contents
-|Section|Description|
-| --- | --- |
-| General Reference/Resources <a name="General References/Resources"></a> | General information or meta resources|
+
 
 ## General References/Resources: 
 - <https://www.mastersindatascience.org/>
@@ -15,7 +13,7 @@ Thanks for visiting.
   - Great teaching and practice of fundamentals ; decreases barrier to entry , enable data-driven research 
 - [Knowledge Tree](http://www.pitt.edu/~taler/KnowledgeTree.html) 
   - Pitt resource from Dr. Peter Brusilovsky  
-- <https://pythonhealthcare.org.
+- <https://pythonhealthcare.org>
   - defunct, 2022
 
 ## Online Courses related to python
