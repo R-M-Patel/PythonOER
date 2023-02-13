@@ -103,6 +103,7 @@ Thanks for visiting.
 -   - CVD risk data 
 - <https://sleepdata.org/datasets>
 - <https://www.causeweb.org/tshs/category/dataset/> 
+  - Teaching Statistics in the Health Sciences, a great repository that matches Data sets (mostly CSV) and papers that use them 
 - <http://archive.ics.uci.edu/ml/index.php> 
   - University of Irvine California 
   - Popular reference for machine learning data sets 
@@ -131,7 +132,6 @@ Thanks for visiting.
 - Mendeley data sets - [Link](https://data.mendeley.com/)
 
 ## Fun Reads / Videos
-- Healthcare Data Analytics - Youtube Playlist curated via the Pharmacy Innovation Lab
 - Machine Learning in Medicine - [Link](http://ml-in-medicine.org/)
   - Virutal Seminar series from Carnegie Mellon University 
 - O’Reilly Training - Youtube playlist [Link](https://www.youtube.com/channel/UCFvbB4_qLYRrOQNuFudz-Mg/search?query=python)
