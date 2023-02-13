@@ -9,9 +9,9 @@ Thanks for visiting.
 | General Reference/Resources <a name="General References/Resources"></a> | General information or meta resources|
 
 ## General References/Resources: 
-- https://www.mastersindatascience.org/
+- [https://www.mastersindatascience.org/]
   - List of lists, approachable review of job titles, programs that teach data, and courses online; owned by 2U (edx)
-- https://datacarpentry.org/
+- [https://datacarpentry.org/]
   - Great teaching and practice of fundamentals ; decreases barrier to entry , enable data-driven research 
 - [Knowledge Tree](http://www.pitt.edu/~taler/KnowledgeTree.html) 
   - Pitt resource from Dr. Peter Brusilovsky  
