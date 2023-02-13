@@ -99,15 +99,15 @@ Thanks for visiting.
 - Codeless Deep Learning with KNIME: Build, train, and deploy various deep neural network architectures using KNIME Analytics Platform - [Link](https://www.knime.com/codeless-deep-learning-book)
 
 ## Datasets
-- https://github.com/laderast/cvdRiskData 
+- <https://github.com/laderast/cvdRiskData> 
 -   - CVD risk data 
-- https://sleepdata.org/datasets
-- https://www.causeweb.org/tshs/category/dataset/ 
-- http://archive.ics.uci.edu/ml/index.php 
+- <https://sleepdata.org/datasets>
+- <https://www.causeweb.org/tshs/category/dataset/> 
+- <http://archive.ics.uci.edu/ml/index.php> 
   - University of Irvine California 
   - Popular reference for machine learning data sets 
-- https://www.icpsr.umich.edu/web/pages/ICPSR/index.html
-- https://www.icpsr.umich.edu/web/instructors/biblio/resources 
+- <https://www.icpsr.umich.edu/web/pages/ICPSR/index.html>
+- <https://www.icpsr.umich.edu/web/instructors/biblio/resources> 
 - Pediatric Intensive Care Data - [Link](http://pic.nbscn.org/)
 - Github example of prediction - [Link](https://github.com/Healthink/PIC)
 - NYU - [Link](https://www.nyu.edu/about/policies-guidelines-compliance/policies-and-guidelines/ucaihs-policy-on-publicly-available-and-de-identified-data.html)
@@ -220,11 +220,11 @@ Users’ Guides to the Medical Literature - [Link](https://jamanetwork.com/journ
 - Beyond performance metrics: modeling outcomes and cost for clinical machine learning - [Link](https://www.nature.com/articles/s41746-021-00495-4)	
   - Editorial 
 - Clinical impact and quality of randomized controlled trials involving interventions evaluating artificial intelligence prediction tools: a systematic review - [Link](https://www.nature.com/articles/s41746-021-00524-2)
-- Using machine learning to study the effect of medication adherence in Opioid Use Disorder [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0278988)
+- Using machine learning to study the effect of medication adherence in Opioid Use Disorder - [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0278988)
   - Comparison of machine learning approaches (XGBoost, Logistic Regression) for outcomes
-- Adverse drug event detection using natural language processing: A scoping review of supervised learning methods [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0278988)
+- Adverse drug event detection using natural language processing: A scoping review of supervised learning methods - [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0278988)
   - Disucssion of how NLP concepts apply to detection in clinical notes/narratives
-- Long-term Effect of Machine Learning-Triggered Behavioral Nudges on Serious Illness Conversations and End-of-Life Outcomes Among Patients With Cancer: A Randomized Clinical Trial [Link](https://pubmed.ncbi.nlm.nih.gov/36633868/)
+- Long-term Effect of Machine Learning-Triggered Behavioral Nudges on Serious Illness Conversations and End-of-Life Outcomes Among Patients With Cancer: A Randomized Clinical Trial - [Link](https://pubmed.ncbi.nlm.nih.gov/36633868/)
   - Interesting application of machine learning for behavioral nudges of prompting serious illness conversations
 - Predicting physician departure with machine learning on EHR use patterns: A longitudinal cohort from a large multi-specialty ambulatory practice [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280251)
   - Uses XGBoost for predication, Shapley Additive Explanations (SHAP) used for feature contribution. The neat component is the granualar detail (though without the data) from the cleaning process available on [Github](https://github.com/kevkid/physician_retention_2.0)
