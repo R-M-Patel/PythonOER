@@ -166,9 +166,9 @@ Thanks for visiting.
 ## Cases
 ### Example applications or tests of knowledge/skills
  - Public vs. Private payer data sets [Link](https://github.com/domdisanto/Python_OER)
-  - Comparing patient records at a sample data set from public vs. private payers
-  - Considerations of medication and classification of opioids
-  - Created by [Dominic DiSanto](https://www.linkedin.com/in/dominic-disanto) as a part of a PittSeeds Open Education Grant 
+   - Comparing patient records at a sample data set from public vs. private payers
+   - Considerations of medication and classification of opioids
+   - Created by [Dominic DiSanto](https://www.linkedin.com/in/dominic-disanto) as a part of a PittSeeds Open Education Grant 
 
 ## Literature
 ### Journals, Collections 
