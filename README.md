@@ -163,12 +163,16 @@ Thanks for visiting.
 - Data Literacy for the Busy Libarian - [Link](https://www.youtube.com/playlist?list=PL1k4bdjLd7TDoHF732Oi9DGqHGk_eOKf4)
   - 10 videos from National Librarian of Medicine (Shout out Nancy Shin from UWashington) that covers Data life cycle, documentation, standards, SNOMED, RxNorm, UMLS, Data security, Data sharing, Visualizations. Videos are 5-20 minutes. Easy to understand and great introductions.
 
-## Cases
+## Learning through Application/Cases
 ### Example applications or tests of knowledge/skills
  - Public vs. Private payer data sets [Link](https://github.com/domdisanto/Python_OER)
    - Comparing patient records at a sample data set from public vs. private payers
    - Considerations of medication and classification of opioids
-   - Created by [Dominic DiSanto](https://www.linkedin.com/in/dominic-disanto) as a part of a PittSeeds Open Education Grant 
+   - Created by [Dominic DiSanto](https://www.linkedin.com/in/dominic-disanto) as a part of University of Pittsburgh Office of the Provost [Open Education Resources Grants](https://www.provost.pitt.edu/OER)
+ - No Code Machine Learning, Google Creative Labs - 
+   - "Experiments with Google" is a collection of open, accessible applications of machine learning, artificial intelligence, and development cycles related to various data.
+   - Machine learning without code in the browser ([Link](https://www.youtube.com/watch?v=i9tjzr1KME0) YouTube, Google, 10 minutes) - Helpful overview/walkthrough of the website and correlates to steps in machine learning 
+   - "Experiment with Google" lab: Teachable Machine ([Link](https://experiments.withgoogle.com/teachable-machine)) - Google Creative Lab, no coding required, this launches the "webcam"-based model (others include Audio based)
 
 ## Literature
 ### Journals, Collections 
