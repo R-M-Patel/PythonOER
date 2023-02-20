@@ -243,5 +243,7 @@ Users’ Guides to the Medical Literature - [Link](https://jamanetwork.com/journ
   - Uses XGBoost for predication, Shapley Additive Explanations (SHAP) used for feature contribution. The neat component is the granualar detail (though without the data) from the cleaning process available on [Github](https://github.com/kevkid/physician_retention_2.0)
 - Machine learning to improve frequent emergency department use prediction: a retrospective cohort study [Link](https://www.nature.com/articles/s41598-023-27568-6)
   - Tested models against each other: Gradient boosting machines (GBM); Naïve Bayes (NB); Neural networks (NN); Random forests (RF). Similar to other studies, no model clearly outperformed the others.
+- Explainable Data-Driven Hypertension Identification Using Inpatient EMR Clinical Notes [Link](https://www.nature.com/articles/s41598-023-27568-6)
+  - Interesting comparison of apporaches to classifying hypertension (e.g. ICD vs. Measurements). Code availabile via [Github](https://github.com/centre-for-health-informatics/Hypertension-Case-Identification)
 
 Edit Notes - This is a living list with updates and edits, last updated: Jan 2023
