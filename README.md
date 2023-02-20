@@ -174,8 +174,17 @@ Thanks for visiting.
    - Machine learning without code in the browser ([Link](https://www.youtube.com/watch?v=i9tjzr1KME0) YouTube, Google, 10 minutes) - Helpful overview/walkthrough of the website and correlates to steps in machine learning 
    - "Experiment with Google" lab: Teachable Machine ([Link](https://experiments.withgoogle.com/teachable-machine)) - Google Creative Lab, no coding required, this launches the "webcam"-based model (others include Audio based)
 
+## Tools
+### Literature
+ - Transparent Reporting of a multivariable prediction modelfor Individual Prognosis Or Diagnosis (TRIPOD) - <>
+  - TRIPOD (Checklist)[https://www.tripod-statement.org/wp-content/uploads/2020/01/Tripod-Checklist-Prediction-Model-Development-and-Validation-PDF.pdf]
+  - Method to report study results with a TRIPOD checklist
+
 ## Literature
 ### Journals, Collections 
+- Email/Updates
+  - PLOS, arXiv, UConn Center for mHealth and Social Media ((Mailing List)[https://mhealth.inchip.uconn.edu/research-roundup/])
+  - Method to learn via updates and inspire further investigation
 - Nature Journal - Scientific Data library - [Link](https://www.nature.com/sdata/)
 - “Acquiring and Using Electronic Health Record Data” - [Link](https://rethinkingclinicaltrials.org/resources/acquiring-and-using-electronic-health-record-data/) 
   - From the NIH Pragmatic Trial Collaborative - RethinkingClinicalTrials
