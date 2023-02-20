@@ -176,9 +176,9 @@ Thanks for visiting.
 
 ## Tools
 ### Literature
- - Transparent Reporting of a multivariable prediction modelfor Individual Prognosis Or Diagnosis (TRIPOD) - <>
-  - TRIPOD (Checklist)[https://www.tripod-statement.org/wp-content/uploads/2020/01/Tripod-Checklist-Prediction-Model-Development-and-Validation-PDF.pdf]
-  - Method to report study results with a TRIPOD checklist
+ - Transparent Reporting of a multivariable prediction modelfor Individual Prognosis Or Diagnosis (TRIPOD) - <https://www.tripod-statement.org/>
+   - TRIPOD [Checklist](https://www.tripod-statement.org/wp-content/uploads/2020/01/Tripod-Checklist-Prediction-Model-Development-and-Validation-PDF.pdf)
+   - Method to report study results with a TRIPOD checklist
 
 ## Literature
 ### Journals, Collections 
