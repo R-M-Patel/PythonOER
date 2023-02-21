@@ -30,6 +30,8 @@ Thanks for visiting.
   - Four course series related to clinical data, fundamentals of ML for healthcare, Evaluation of AI in Healthcare, and Capstone
 - Learning Python: basic level [Link](https://github.com/kgdunn/python-basic-notebooks)
   - Kevin Dunn's fantastic review of concepts. From the site: The topics listed below give an idea of what is covered. Within in each notebook are a series of simple or more challenging problems. The problems are designed to build on the topics just learned, as well as the topics from earlier notebooks.
+- Lab in Cogniition and Perception online textbook by Todd Gureckis, Brenden M. Lake and others [Link](https://cims.nyu.edu/~brenden/courses/labincp/intro.html) 
+  - While thematically based on cognition/peception and has a hands-on approach to Jupyter and Python. Great content for concepts like Linear Regression and Python resources 
 
 #### Coursera
 - Coursera - Python Genomic Data Science Specialization - [Link](https://www.coursera.org/learn/python-genomics)
