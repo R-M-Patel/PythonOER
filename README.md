@@ -247,5 +247,6 @@ Users’ Guides to the Medical Literature - [Link](https://jamanetwork.com/journ
   - Tested models against each other: Gradient boosting machines (GBM); Naïve Bayes (NB); Neural networks (NN); Random forests (RF). Similar to other studies, no model clearly outperformed the others.
 - Explainable Data-Driven Hypertension Identification Using Inpatient EMR Clinical Notes [Link](https://www.nature.com/articles/s41598-023-27568-6)
   - Interesting comparison of apporaches to classifying hypertension (e.g. ICD vs. Measurements). Code availabile via [Github](https://github.com/centre-for-health-informatics/Hypertension-Case-Identification)
-
+- Natural Language Processing for Automated Quantification of Brain Metastases Reported in Free-Text Radiology Reports [Link](https://ascopubs.org/doi/full/10.1200/CCI.18.00138)
+  - Review of a Natural language text approach to free-text radiology reports, a great sample file in the [Github Repo] that describes the search process (no data available though), iteration (great example of how to run multiple tests), and viewing results. 
 Edit Notes - This is a living list with updates and edits, last updated: Jan 2023
