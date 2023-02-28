@@ -249,4 +249,9 @@ Users’ Guides to the Medical Literature - [Link](https://jamanetwork.com/journ
   - Interesting comparison of apporaches to classifying hypertension (e.g. ICD vs. Measurements). Code availabile via [Github](https://github.com/centre-for-health-informatics/Hypertension-Case-Identification)
 - Natural Language Processing for Automated Quantification of Brain Metastases Reported in Free-Text Radiology Reports [Link](https://ascopubs.org/doi/full/10.1200/CCI.18.00138)
   - Review of a Natural language text approach to free-text radiology reports, a great sample file in the [Github Repo](https://github.com/jtsenders/nlp_brain_metastasis/blob/master/met_nlp_open_source.ipynb) that describes the search process (no data available though), iteration (great example of how to run multiple tests), and viewing results. 
-Edit Notes - This is a living list with updates and edits, last updated: Jan 2023
+ - Evidence from ClinicalTrials.gov on the growth of Digital Health Technologies in neurology trials [Link](https://www.nature.com/articles/s41746-023-00767-1)
+  - Content is of interest for digital health but the real neat part is the open sharing of the notes. The [Github](https://github.com/Entspannter/DHTs-in-neurology-trials/blob/main/aggregated_analysis_Dec22.ipynb) shares the data and the Python code related to the data visualization. 
+  
+  
+
+##### Edit Notes - This is a living list with updates and edits, last updated: Jan 2023
