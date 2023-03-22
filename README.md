@@ -80,6 +80,8 @@ Thanks for visiting.
 - Concordia University - “OER Statistics” - [Link](https://libguides.cu-portland.edu/OER/statistics)
 - Open UMich Introduction to Statistics - [Link](https://open.umich.edu/find/open-educational-resources/statistics/statistics-250-introduction-statistics-data-analysis)
 - OER Hopkins  “Introduction to Biostatistics” - [Link](http://ocw.jhsph.edu/index.cfm/go/viewCourse/course/introbiostats/coursePage/index/)
+- Seing Theory, online book - [Link](https://seeing-theory.brown.edu/)
+  - Fantastic review of statistics in an interactive online format
 
 
 ## Books
