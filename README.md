@@ -256,7 +256,7 @@ Users’ Guides to the Medical Literature - [Link](https://jamanetwork.com/journ
 - Predictive models in emergency medicine and their missing data strategies: a systematic review [Link](https://www.nature.com/articles/s41746-023-00770-6)
   - Good review for missing data in healthcare, good figure for comparing dropping vs. Mean/Mode vs. Imputation  
  - Machine learning in medicine: Performance calculation of dementia prediction by support vector machines (SVM) [Link](https://www.sciencedirect.com/science/article/pii/S2352914819300917)
-    - Application of SVM for predicting Dementia, data available via Mendeley Data for 149 observations (non-binary outcomes: Non-Demented, Demented, Converted)
+    - Application of SVM for predicting Dementia, data available via [Mendeley Data](https://data.mendeley.com/datasets/tsy6rbc5d4/1) for 149 observations (non-binary outcomes: Non-Demented, Demented, Converted)
   
 
 ##### Edit Notes - This is a living list with updates and edits, last updated: Jan 2023
