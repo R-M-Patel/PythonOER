@@ -28,6 +28,8 @@ Thanks for visiting.
   - Open learning resources, Principles of Computation with Python, course with content/quizzes, includes porgramming/data/encryption/cellular automaton, has free access to view and requires free account for full features
 - Artificial Intelligence in Healthcare, Standford Certificate program - [Link](https://online.stanford.edu/programs/artificial-intelligence-healthcare)
   - Four course series related to clinical data, fundamentals of ML for healthcare, Evaluation of AI in Healthcare, and Capstone
+- OurCodingClub - Python Tutorial [Link](https://ourcodingclub.github.io/tutorials/python_crash_course/)
+  - Github site hosted course with easy to follow tutorials, originally meant for Ecosciences  
 - Learning Python: basic level [Link](https://github.com/kgdunn/python-basic-notebooks)
   - Kevin Dunn's fantastic review of concepts. From the site: The topics listed below give an idea of what is covered. Within in each notebook are a series of simple or more challenging problems. The problems are designed to build on the topics just learned, as well as the topics from earlier notebooks.
 - Lab in Cogniition and Perception online textbook by Todd Gureckis, Brenden M. Lake and others [Link](https://cims.nyu.edu/~brenden/courses/labincp/intro.html) 
