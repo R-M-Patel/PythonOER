@@ -69,6 +69,10 @@ Thanks for visiting.
 - Best of ML with Python -[Link](https://github.com/ml-tooling/best-of-ml-python)
   - List of open source machine learning projects hosted on Github
 
+## SQL Content
+- [W3Resource](https://www.w3resource.com/sql-exercises/hospital-database-exercise/sql-exercise-on-hospital-database.php) - SQL Hospital Database - Exercises, Practice, Solution
+  - Large practice site with some content for a "hospital" database, not relate to actual EHR structure but a relevant practice resource.
+
 ## Statistics Materials:
 - Youtube “Stats Quest” - Josh Starmer - [Link](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
   - Execellent review in breadth and depth of topics. Videos like ["Gentle Introduction to Machine Learning"](https://www.youtube.com/watch?v=Gv9_4yMHFhI) are immensely valuable to new learners. 
