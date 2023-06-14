@@ -129,7 +129,6 @@ Thanks for visiting.
 ## Datasets
 
 * [https://github.com/laderast/cvdRiskData](https://github.com/laderast/cvdRiskData)
-*
   * CVD risk data
 * [https://sleepdata.org/datasets](https://sleepdata.org/datasets)
 * [https://www.causeweb.org/tshs/category/dataset/](https://www.causeweb.org/tshs/category/dataset/)
@@ -149,7 +148,6 @@ Thanks for visiting.
 * Synthetic EMR Data Set - http://www.emrbots.org/ ; R Bots
 * Synthetic EMR Data Set - https://synthea.mitre.org/Synthethic ; Mitre Mass
 * https://nda.nih.gov/get/access-data.html
-*
   * Summary information on the data shared in NDA is available in the NDA Query Tool without the need for an NDA user account. To request access to record-level human subject data, you must submit a Data Access Request.
 * IPUMS International - [Link](https://international.ipums.org/international-action/samples)
 * Harmonized International Census Data for Social Science and Health Research
