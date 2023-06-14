@@ -104,6 +104,8 @@ Thanks for visiting.
 * OER Hopkins “Introduction to Biostatistics” - [Link](http://ocw.jhsph.edu/index.cfm/go/viewCourse/course/introbiostats/coursePage/index/)
 * Seing Theory, online book - [Link](https://seeing-theory.brown.edu/)
   * Fantastic review of statistics in an interactive online format
+* Statology - [Link](https://www.statology.org/google-sheets-guides/)
+  * Good review of tests, great section in "software tutorials" to explain how to conduct tests in Excel, Google Sheets, Python, R, etc   
 
 ## Books
 
