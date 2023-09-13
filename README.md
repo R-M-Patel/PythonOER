@@ -105,7 +105,7 @@ Thanks for visiting.
 * Seing Theory, online book - [Link](https://seeing-theory.brown.edu/)
   * Fantastic review of statistics in an interactive online format
 * Statology - [Link](https://www.statology.org/google-sheets-guides/)
-  * Good review of tests, great section in "software tutorials" to explain how to conduct tests in Excel, Google Sheets, Python, R, etc   
+  * Good review of tests, great section in "software tutorials" to explain how to conduct tests in Excel, Google Sheets, Python, R, etc
 
 ## Books
 
@@ -192,6 +192,8 @@ Thanks for visiting.
   * Collection of low/no code workflows when working with KNIME Platform. ex. Vanco dosing in obesity, Predicting patient glucose levels, Natural Language Processing for disease tagging in literature.
 * Data Literacy for the Busy Libarian - [Link](https://www.youtube.com/playlist?list=PL1k4bdjLd7TDoHF732Oi9DGqHGk\_eOKf4)
   * 10 videos from National Librarian of Medicine (Shout out Nancy Shin from UWashington) that covers Data life cycle, documentation, standards, SNOMED, RxNorm, UMLS, Data security, Data sharing, Visualizations. Videos are 5-20 minutes. Easy to understand and great introductions.
+* An introduction to Python for R Users - [Link](https://www.rebeccabarter.com/blog/2023-09-11-from\_r\_to\_python)
+  * Blog post with a basic walkthrough for basic functions like libraries.
 
 ## Learning through Application/Cases
 
