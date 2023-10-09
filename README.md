@@ -159,6 +159,7 @@ Thanks for visiting.
   * https://nda.nih.gov/oai/ - This website contains the permanent archive of the clinical data, patient reported outcomes, biospecimen analyses, quantitative image analyses, radiographs (X-Rays) and magnetic resonance images (MRIs) acquired during this study. There are longitudinal assessments and measurements from 4,796 subjects, with data from over 431,000 clinical and imaging visits, and almost 26,626,000 images in this archive. More than 400 research manuscripts have already been generated based on this data.
 * NHS prescribing data - [Link](https://www.nhsbsa.nhs.uk/prescription-data)
 * Mendeley data sets - [Link](https://data.mendeley.com/)
+* AHRQ, Synthetic Healthcare Database for Research (SyH-DR) - [Link](https://www.ahrq.gov/data/innovations/syh-dr.html)
 
 ## Fun Reads / Videos
 
