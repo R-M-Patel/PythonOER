@@ -13,6 +13,8 @@ Thanks for visiting.
 
 #### Table of Contents
 
+
+
 ## General References/Resources:
 
 * [https://www.mastersindatascience.org/](https://www.mastersindatascience.org/)
@@ -42,7 +44,8 @@ Thanks for visiting.
 * Learning Python: basic level [Link](https://github.com/kgdunn/python-basic-notebooks)
   * Kevin Dunn's fantastic review of concepts. From the site: The topics listed below give an idea of what is covered. Within in each notebook are a series of simple or more challenging problems. The problems are designed to build on the topics just learned, as well as the topics from earlier notebooks.
 * Lab in Cogniition and Perception online textbook by Todd Gureckis, Brenden M. Lake and others [Link](https://cims.nyu.edu/\~brenden/courses/labincp/intro.html)
-  * While thematically based on cognition/peception and has a hands-on approach to Jupyter and Python. Great content for concepts like Linear Regression and Python resources
+  * While thematically based on cognition/perception and has a hands-on approach to Jupyter and Python. Great content for concepts like Linear Regression and Python resources
+* [https://www.freecodecamp.org/learn/machine-learning-with-python/](https://www.freecodecamp.org/learn/machine-learning-with-python/)&#x20;
 
 #### Coursera
 
@@ -158,8 +161,10 @@ Thanks for visiting.
 * Medical Imaging
   * https://nda.nih.gov/oai/ - This website contains the permanent archive of the clinical data, patient reported outcomes, biospecimen analyses, quantitative image analyses, radiographs (X-Rays) and magnetic resonance images (MRIs) acquired during this study. There are longitudinal assessments and measurements from 4,796 subjects, with data from over 431,000 clinical and imaging visits, and almost 26,626,000 images in this archive. More than 400 research manuscripts have already been generated based on this data.
 * NHS prescribing data - [Link](https://www.nhsbsa.nhs.uk/prescription-data)
+* Opendata NHS, Scotland - [Link](https://www.opendata.nhs.scot/dataset)
 * Mendeley data sets - [Link](https://data.mendeley.com/)
 * AHRQ, Synthetic Healthcare Database for Research (SyH-DR) - [Link](https://www.ahrq.gov/data/innovations/syh-dr.html)
+*
 
 ## Fun Reads / Videos
 
@@ -292,6 +297,6 @@ Thanks for visiting.
 * Machine learning in medicine: Performance calculation of dementia prediction by support vector machines (SVM) [Link](https://www.sciencedirect.com/science/article/pii/S2352914819300917)
   * Application of SVM for predicting Dementia, data available via [Mendeley Data](https://data.mendeley.com/datasets/tsy6rbc5d4/1) for 149 observations (non-binary outcomes: Non-Demented, Demented, Converted)
 * Classification of lapses in smokers attempting to stop: A supervised machine learning approach using data from a popular smoking cessation smartphone app [Link](https://academic.oup.com/ntr/advance-article/doi/10.1093/ntr/ntad051/7086681)
-  * Okay article for reviewing use of classification across Random Forest, Support Vector Machine, Penalised Logistic Regression, and Extreme Gradient Boosting.
+  * Okay article for reviewing use of classification across Random Forest, Support Vector Machine, Penalized Logistic Regression, and Extreme Gradient Boosting.
 
-**Edit Notes - This is a living list with updates and edits, last updated: April 2023**
+**Edit Notes - This is a living list with updates and edits, last updated: October 2023**
