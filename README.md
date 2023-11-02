@@ -134,21 +134,23 @@ Thanks for visiting.
 * [https://github.com/laderast/cvdRiskData](https://github.com/laderast/cvdRiskData)
   * CVD risk data
 * [https://sleepdata.org/datasets](https://sleepdata.org/datasets)
-* [https://www.causeweb.org/tshs/category/dataset/](https://www.causeweb.org/tshs/category/dataset/)
+* Teaching Statistics in the Health Sciences **-** [Link](https://www.causeweb.org/tshs/category/dataset/)&#x20;
   * Teaching Statistics in the Health Sciences, a great repository that matches Data sets (mostly CSV) and papers that use them
-* [http://archive.ics.uci.edu/ml/index.php](http://archive.ics.uci.edu/ml/index.php)
-  * University of Irvine California
+* UC Irvine Machine Learning Repository - [Link](http://archive.ics.uci.edu/ml/index.php)
   * Popular reference for machine learning data sets
-* [https://www.icpsr.umich.edu/web/pages/ICPSR/index.html](https://www.icpsr.umich.edu/web/pages/ICPSR/index.html)
-* [https://www.icpsr.umich.edu/web/instructors/biblio/resources](https://www.icpsr.umich.edu/web/instructors/biblio/resources)
+* Institute for Social Research at University of Michigan - [Link](https://www.icpsr.umich.edu/web/pages/ICPSR/index.html)&#x20;
+  * Data sets: [https://www.icpsr.umich.edu/web/instructors/biblio/resources](https://www.icpsr.umich.edu/web/instructors/biblio/resources)
+  * Provides Goals/Concept of dataset with sample questions, data sets, and data dictionary
 * Pediatric Intensive Care Data - [Link](http://pic.nbscn.org/)
-* Github example of prediction - [Link](https://github.com/Healthink/PIC)
-* NYU - [Link](https://www.nyu.edu/about/policies-guidelines-compliance/policies-and-guidelines/ucaihs-policy-on-publicly-available-and-de-identified-data.html)
-  * Curated set of public data sets
-* Berkley - [Link](https://guides.lib.berkeley.edu/publichealth/healthstatistics/rawdata)
-* http://www.emrbots.org/
-* https://dataverse.harvard.edu/dataverse/ptmdemo
-* Synthetic EMR Data Set - http://www.emrbots.org/ ; R Bots
+  * Children's Hospital Zhejiang University School of Medicine
+  * Github example of prediction - [Link](https://github.com/Healthink/PIC)
+* NYU&#x20;
+  * Health Science Library pre-publication data sets - [Link](https://datacatalog.med.nyu.edu/)
+  * Curated set of public data sets - [Link](https://guides.nyu.edu/c.php?g=276966\&p=1848679)
+* Berkley Library, University of California, Health Statistics & Data: Datasets/Raw Data - [Link](https://guides.lib.berkeley.edu/publichealth/healthstatistics/rawdata)
+* EMRBots - [http://www.emrbots.org/](http://www.emrbots.org/)
+  * Experimental artificially generated electronic medical records (EMRs), [Wiki articles](https://en.wikipedia.org/wiki/EMRBots)&#x20;
+* Harvard Dataverse, Med/Health/Life Science tag - [Link](https://dataverse.harvard.edu/dataverse/harvard?q=\&fq0=subject\_ss%3A%22Medicine,%20Health%20and%20Life%20Sciences%22\&types=dataverses%3Adatasets\&sort=dateSort\&order=desc)&#x20;
 * Synthetic EMR Data Set - https://synthea.mitre.org/Synthethic ; Mitre Mass
 * https://nda.nih.gov/get/access-data.html
   * Summary information on the data shared in NDA is available in the NDA Query Tool without the need for an NDA user account. To request access to record-level human subject data, you must submit a Data Access Request.
