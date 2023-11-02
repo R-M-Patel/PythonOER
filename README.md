@@ -84,13 +84,6 @@ Thanks for visiting.
 * Best of ML with Python -[Link](https://github.com/ml-tooling/best-of-ml-python)
   * List of open source machine learning projects hosted on Github
 
-## SQL Content
-
-* [W3Resource](https://www.w3resource.com/sql-exercises/hospital-database-exercise/sql-exercise-on-hospital-database.php) - SQL Hospital Database - Exercises, Practice, Solution
-  * Large practice site with some content for a "hospital" database, not relate to actual EHR structure but a relevant practice resource.
-* [Coursera - Clinical Data Models and Data Quality](https://www.coursera.org/lecture/clinical-data-models-and-data-quality-assessments/querying-omop-rOGrq) - Course focused on OMOP standard terminology
-  * Have not used it first hand, the available content seems useful for both OMOP overview and ties to SQL queries
-
 ## Statistics Materials:
 
 * Youtube “Stats Quest” - Josh Starmer - [Link](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
@@ -131,9 +124,11 @@ Thanks for visiting.
 
 ## Datasets
 
-* [https://github.com/laderast/cvdRiskData](https://github.com/laderast/cvdRiskData)
+* Mendeley Data Sets - [Link](https://data.mendeley.com/)
+  * Mendeley Data is a free and secure cloud-based communal repository where you can store your data, ensuring it is easy to share, access and cite, wherever you are.
+* Synthetic Cardiovascular Risk Dataset, Github hosted - [Link](https://github.com/laderast/cvdRiskData)
   * CVD risk data
-* [https://sleepdata.org/datasets](https://sleepdata.org/datasets)
+* National Sleep Research Resource, Sleep data sets - [Link](https://sleepdata.org/datasets)
 * Teaching Statistics in the Health Sciences **-** [Link](https://www.causeweb.org/tshs/category/dataset/)&#x20;
   * Teaching Statistics in the Health Sciences, a great repository that matches Data sets (mostly CSV) and papers that use them
 * UC Irvine Machine Learning Repository - [Link](http://archive.ics.uci.edu/ml/index.php)
@@ -151,27 +146,31 @@ Thanks for visiting.
 * EMRBots - [http://www.emrbots.org/](http://www.emrbots.org/)
   * Experimental artificially generated electronic medical records (EMRs), [Wiki articles](https://en.wikipedia.org/wiki/EMRBots)&#x20;
 * Harvard Dataverse, Med/Health/Life Science tag - [Link](https://dataverse.harvard.edu/dataverse/harvard?q=\&fq0=subject\_ss%3A%22Medicine,%20Health%20and%20Life%20Sciences%22\&types=dataverses%3Adatasets\&sort=dateSort\&order=desc)&#x20;
-* Synthetic EMR Data Set - https://synthea.mitre.org/Synthethic ; Mitre Mass
-* https://nda.nih.gov/get/access-data.html
+* Synthetic EMR Data Set - [https://synthea.mitre.org/Synthethic](https://synthea.mitre.org/) ; Mitre Mass
+  * SyntheticMass contains realistic but fictional residents of the state of Massachusetts. The synthetic population aims to statistically mirrors the real population in terms of demographics, disease burden, vaccinations, medical visits, and social determinants.
+* &#x20;NIMH Data Archive - [https://nda.nih.gov/](https://nda.nih.gov/)
+  * National Institute of Mental Health Data Archive (NDA) is a single infrastructure that was initially created through the integration of a set of research data repositories
   * Summary information on the data shared in NDA is available in the NDA Query Tool without the need for an NDA user account. To request access to record-level human subject data, you must submit a Data Access Request.
-* IPUMS International - [Link](https://international.ipums.org/international-action/samples)
-* Harmonized International Census Data for Social Science and Health Research
+* Integrated Public Use Microdata Series - [Link](https://international.ipums.org/international-action/samples)
+  * IPUMS International is dedicated to collecting and distributing census microdata from around the world.
+  * Harmonized International Census Data for Social Science and Health Research
 * Clinical Practice Research Datalink (CPRD) - [Link](https://www.cprd.com/)
   * Proprietary, Limited Access
-* Sources for Data on Social Determinants of Health
-  * https://www.cdc.gov/socialdeterminants/data/index.htm
-* Medical Imaging
-  * https://nda.nih.gov/oai/ - This website contains the permanent archive of the clinical data, patient reported outcomes, biospecimen analyses, quantitative image analyses, radiographs (X-Rays) and magnetic resonance images (MRIs) acquired during this study. There are longitudinal assessments and measurements from 4,796 subjects, with data from over 431,000 clinical and imaging visits, and almost 26,626,000 images in this archive. More than 400 research manuscripts have already been generated based on this data.
-* NHS prescribing data - [Link](https://www.nhsbsa.nhs.uk/prescription-data)
+  * Clinical Practice Research Datalink (CPRD) is a real-world research service supporting retrospective and prospective public health and clinical studies. CPRD research data services are delivered by the Medicines and Healthcare products Regulatory Agency with support from the National Institute for Health and Care Research (NIHR), as part of the Department of Health and Social Care. (United Kingdom)&#x20;
+* Medical Imaging, Osteoarthritis Initiative (OAI) - [https://nda.nih.gov/oai/ ](https://nda.nih.gov/oai/)&#x20;
+  * This website contains the permanent archive of the clinical data, patient reported outcomes, biospecimen analyses, quantitative image analyses, radiographs (X-Rays) and magnetic resonance images (MRIs) acquired during this study. There are longitudinal assessments and measurements from 4,796 subjects, with data from over 431,000 clinical and imaging visits, and almost 26,626,000 images in this archive. More than 400 research manuscripts have already been generated based on this data.
+* NHS, Business Services Authority, Prescribing data - [Link](https://www.nhsbsa.nhs.uk/prescription-data)
+  * We provide prescribing, dispensing and organization data to help NHS stakeholders track trends and to inform decisions. Using a wide range of information based on prescribing and dispensing, we create reports specific to user needs and requirements.
 * Opendata NHS, Scotland - [Link](https://www.opendata.nhs.scot/dataset)
-* Mendeley data sets - [Link](https://data.mendeley.com/)
+  * Prescriptions in the Community&#x20;
+  * The Scottish Health and Social Care open data platform gives access to statistics and reference data for information and re-use.
 * AHRQ, Synthetic Healthcare Database for Research (SyH-DR) - [Link](https://www.ahrq.gov/data/innovations/syh-dr.html)
-*
+  * The Synthetic Healthcare Database for Research (SyH-DR) is an all-payer, nationally representative claims database. The database consists of a sample of inpatient, outpatient, and prescription drug claims, including utilization, payment, and enrollment data, for people insured by Medicare, Medicaid, or commercial health insurance in 2016. AHRQ created SyH-DR, in part, as a resource to facilitate improvements to price and quality transparency in healthcare.
 
 ## Fun Reads / Videos
 
 * Machine Learning in Medicine - [Link](http://ml-in-medicine.org/)
-  * Virutal Seminar series from Carnegie Mellon University
+  * Virtual Seminar series from Carnegie Mellon University
 * O’Reilly Training - Youtube playlist [Link](https://www.youtube.com/channel/UCFvbB4\_qLYRrOQNuFudz-Mg/search?query=python)
 * Bringing AI to the Underserved Billions - [Link](https://www.ted.com/talks/dr\_rahul\_panicker\_bringing\_ai\_to\_the\_underserved\_billions), Ted Talk 12 minutes
 * How to keep human bias out of AI - [Link](https://www.ted.com/talks/kriti\_sharma\_how\_to\_keep\_human\_bias\_out\_of\_ai), Ted Talk 12 minutes
