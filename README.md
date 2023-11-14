@@ -136,6 +136,8 @@ Thanks for visiting.
 * Institute for Social Research at University of Michigan - [Link](https://www.icpsr.umich.edu/web/pages/ICPSR/index.html)&#x20;
   * Data sets: [https://www.icpsr.umich.edu/web/instructors/biblio/resources](https://www.icpsr.umich.edu/web/instructors/biblio/resources)
   * Provides Goals/Concept of dataset with sample questions, data sets, and data dictionary
+  * Health and Medical Care Archive - [Link](https://www.icpsr.umich.edu/web/pages/HMCA/index.html)
+    * Data Archive of the Robert Wood Johnson Foundation&#x20;
 * Pediatric Intensive Care Data - [Link](http://pic.nbscn.org/)
   * Children's Hospital Zhejiang University School of Medicine
   * Github example of prediction - [Link](https://github.com/Healthink/PIC)
@@ -166,6 +168,7 @@ Thanks for visiting.
   * The Scottish Health and Social Care open data platform gives access to statistics and reference data for information and re-use.
 * AHRQ, Synthetic Healthcare Database for Research (SyH-DR) - [Link](https://www.ahrq.gov/data/innovations/syh-dr.html)
   * The Synthetic Healthcare Database for Research (SyH-DR) is an all-payer, nationally representative claims database. The database consists of a sample of inpatient, outpatient, and prescription drug claims, including utilization, payment, and enrollment data, for people insured by Medicare, Medicaid, or commercial health insurance in 2016. AHRQ created SyH-DR, in part, as a resource to facilitate improvements to price and quality transparency in healthcare.
+* [https://www.icpsr.umich.edu/web/pages/HMCA/index.html](https://www.icpsr.umich.edu/web/pages/HMCA/index.html)
 
 ## Fun Reads / Videos
 
