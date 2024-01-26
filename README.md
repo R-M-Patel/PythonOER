@@ -69,6 +69,7 @@ Thanks for visiting.
   * Vast array and breath/depth of topics in data science from single user including language specific content, conceptual videos, and interviews with others in data science
 * "Healthcare Data Analytics" - [Link](https://www.youtube.com/watch?v=zMdPAwXX8-M\&list=PLtkf1CzQAYcE6Ob6Yv6PLFQFIhvR7nWl8)
   * Tools as a resource "Health IT Curriculum Resources for Educators" from HealthIT.gov's Workflow Development program
+* Working with Medication Data - [Link](https://www.youtube.com/playlist?list=PL5nX2n0FFN36phdTvbDP9zS\_q2-iP8Sip)
 
 ## Others locations of information
 
