@@ -172,6 +172,9 @@ Thanks for visiting.
 * [https://www.icpsr.umich.edu/web/pages/HMCA/index.html](https://www.icpsr.umich.edu/web/pages/HMCA/index.html)
 * Synapse - Data repository for publication data. Includes a subsection for digital health and biomarkers
   * [https://dhealth.synapse.org/](https://dhealth.synapse.org/)
+* FDA Github&#x20;
+  * [https://github.com/fda](https://github.com/fda)
+  * Great starting point for learning about the variety of information available from the FDA via Github. Includes documentation for FDA APIs.&#x20;
 
 ## Fun Reads / Videos
 
