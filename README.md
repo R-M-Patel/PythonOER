@@ -170,6 +170,8 @@ Thanks for visiting.
 * AHRQ, Synthetic Healthcare Database for Research (SyH-DR) - [Link](https://www.ahrq.gov/data/innovations/syh-dr.html)
   * The Synthetic Healthcare Database for Research (SyH-DR) is an all-payer, nationally representative claims database. The database consists of a sample of inpatient, outpatient, and prescription drug claims, including utilization, payment, and enrollment data, for people insured by Medicare, Medicaid, or commercial health insurance in 2016. AHRQ created SyH-DR, in part, as a resource to facilitate improvements to price and quality transparency in healthcare.
 * [https://www.icpsr.umich.edu/web/pages/HMCA/index.html](https://www.icpsr.umich.edu/web/pages/HMCA/index.html)
+* Synapse - Data repository for publication data. Includes a subsection for digital health and biomarkers
+  * [https://dhealth.synapse.org/](https://dhealth.synapse.org/)
 
 ## Fun Reads / Videos
 
