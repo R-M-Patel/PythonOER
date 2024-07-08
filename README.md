@@ -84,6 +84,8 @@ Thanks for visiting.
   * Hosted on Github by DAIR.AI, includes brief outline of each below whole list
 * Best of ML with Python -[Link](https://github.com/ml-tooling/best-of-ml-python)
   * List of open source machine learning projects hosted on Github
+* Johns Hopkins Data Science Lab - [https://jhudatascience.org/index.html](https://jhudatascience.org/index.html)
+  * Great resource of MOOC for R, open textbooks (Leadership in Cancer Informatics) and , resources.&#x20;
 
 ## Statistics Materials:
 
