@@ -179,6 +179,8 @@ Thanks for visiting.
   * Great starting point for learning about the variety of information available from the FDA via Github. Includes documentation for FDA APIs.&#x20;
 * Mimi Labs - Data Catalog, great references from a great group
   * [https://www.mimilabs.ai/datacatalog#state-government-databases-mimi-ws-1-stategov](https://www.mimilabs.ai/datacatalog#state-government-databases-mimi-ws-1-stategov)
+* Sage Data Planet
+  * [https://data.sagepub.com/](https://data.sagepub.com/)
 
 ## Fun Reads / Videos
 
