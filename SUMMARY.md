@@ -2,3 +2,4 @@
 
 * [PythonOER](README.md)
 * [SQL](sql.md)
+* [Artificial Intelligence](artificial-intelligence.md)
