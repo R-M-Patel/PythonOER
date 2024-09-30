@@ -71,8 +71,6 @@ description: >-
 
 * OHSU - Wiki that reviews other resources - [Main page](https://www.clinfowiki.org/wiki/index.php/Main\_Page), [Article list](https://www.clinfowiki.org/wiki/index.php/Category:HI5313-2015-FALL)
   * Mainly a review of clinical informatics (how does a clinician informaticists think about systems and data)
-* <mark style="background-color:red;">ICS Lab Tutors -</mark> [<mark style="background-color:red;">Link</mark>](http://tutors.ics.uci.edu/index.php/0-python-resources/85-python-resources)
-  * <mark style="background-color:red;">Python Exercises from a course (fundamentals, practice, quizzes, exercises)</mark>
 * “The Ultimate Data Science Prerequisite Learning List” - [Link](https://towardsdatascience.com/the-ultimate-data-science-prerequisite-learning-list-348ce89805f9)
   * List of List
   * Broad definition and application examples of math concepts in data science and high level review of programming in data science
