@@ -309,4 +309,4 @@ description: >-
 * Classification of lapses in smokers attempting to stop: A supervised machine learning approach using data from a popular smoking cessation smartphone app [Link](https://academic.oup.com/ntr/advance-article/doi/10.1093/ntr/ntad051/7086681)
   * Okay article for reviewing use of classification across Random Forest, Support Vector Machine, Penalized Logistic Regression, and Extreme Gradient Boosting.
 
-**Edit Notes - This is a living list with updates and edits, last updated: October 2023**
+**Edit Notes - This is a living list with updates and edits, last updated: September 2024**
