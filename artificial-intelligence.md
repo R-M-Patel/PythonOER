@@ -8,7 +8,10 @@ Tools
 
 ## Information
 
-* [https://unevoc.unesco.org/home/Digital+Competence+Frameworks](https://unevoc.unesco.org/home/Digital+Competence+Frameworks)
+* How to cite AI
+  * Purdue Library - [https://guides.lib.purdue.edu/c.php?g=1371380\&p=10135074](https://guides.lib.purdue.edu/c.php?g=1371380\&p=10135074)
+  * APA Citation - [https://apastyle.apa.org/blog/how-to-cite-chatgpt](https://apastyle.apa.org/blog/how-to-cite-chatgpt)
+* UN AI Framework (K-12) - [https://unevoc.unesco.org/home/Digital+Competence+Frameworks](https://unevoc.unesco.org/home/Digital+Competence+Frameworks)
 * Lance Eaton
   * [https://www.linkedin.com/posts/leaton01\_syllabi-policies-for-ai-generative-tools-activity-7094307529974800384-WEVc](https://www.linkedin.com/posts/leaton01\_syllabi-policies-for-ai-generative-tools-activity-7094307529974800384-WEVc)  - LinkedIn post about his AI-Syllabi and related language
   * [https://aiedusimplified.substack.com/](https://aiedusimplified.substack.com/) - Just a great substack on the topic&#x20;
