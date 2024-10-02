@@ -9,7 +9,16 @@ description: >-
 
 #### Table of Contents
 
-
+* [General References/Resources](./#general-references-resources)
+* [Online Courses Related to Python](./#online-courses-related-to-python)
+* [Other Locations of Information](./#other-locations-of-information)
+* [Statistics Materials](./#statistics-materials)
+* [Books](./#books)
+* [Datasets](./#datasets)
+* [Fun Reads / Videos](./#fun-reads-videos)
+* [Learning through Application / Cases](./#learning-through-application-cases)
+* [Tools](./#tools)
+* [Literature](./#literature-1)
 
 ## General References/Resources:
 
@@ -22,7 +31,7 @@ description: >-
 * [https://pythonhealthcare.org](https://pythonhealthcare.org)
   * defunct as of 2022
 
-## Online Courses related to python
+## Online Courses Related to Python:
 
 * Forbes Best Free online data science courses in 2019 - [Link](https://www.forbes.com/sites/bernardmarr/2020/02/24/the-9-best-free-online-data-science-courses-in-2020/#669fdab32bbf)
 * Data Camp - [Link](https://www.datacamp.com/community/open-courses)
@@ -67,7 +76,7 @@ description: >-
   * Tools as a resource "Health IT Curriculum Resources for Educators" from HealthIT.gov's Workflow Development program
 * Working with Medication Data - [Link](https://www.youtube.com/playlist?list=PL5nX2n0FFN36phdTvbDP9zS\_q2-iP8Sip)
 
-## Others locations of information
+## Other Locations of Information:
 
 * OHSU - Wiki that reviews other resources - [Main page](https://www.clinfowiki.org/wiki/index.php/Main\_Page), [Article list](https://www.clinfowiki.org/wiki/index.php/Category:HI5313-2015-FALL)
   * Mainly a review of clinical informatics (how does a clinician informaticists think about systems and data)
@@ -90,28 +99,26 @@ description: >-
 * BMJ Statistics - [Link](https://www.bmj.com/about-bmj/resources-readers/publications/statistics-square-one)
 * Kenyon - Biology - [Link](http://biology.kenyon.edu/courses/biol09/stats.htm)
 * Health Knowledge UK, Public Health Textbook, statistical methods section - [Link](https://www.healthknowledge.org.uk/public-health-textbook/research-methods/1b-statistical-methods)
-* <mark style="background-color:red;">StatR Analysis - Which test to choose -</mark> [<mark style="background-color:red;">Link</mark>](https://statranalysis.net/2015/07/27/choosing-the-correct-statistical-test/)
+* StatR Analysis - Which test to choose - [Link](https://statranalysis.wordpress.com/2015/07/27/choosing-the-correct-statistical-test/)
 * Medium, Towards Data Science - “Everything You Need To Know about Hypothesis Testing — Part II” - [Link](https://towardsdatascience.com/everything-you-need-to-know-about-hypothesis-testing-part-ii-f0526be27b7d)
-* <mark style="background-color:red;">Concordia University - “OER Statistics” -</mark> [<mark style="background-color:red;">Link</mark>](https://libguides.cu-portland.edu/OER/statistics)
 * Open UMich Introduction to Statistics - [Link](https://open.umich.edu/find/open-educational-resources/statistics/statistics-250-introduction-statistics-data-analysis)
-* <mark style="background-color:red;">OER Hopkins “Introduction to Biostatistics” -</mark> [<mark style="background-color:red;">Link</mark>](http://ocw.jhsph.edu/index.cfm/go/viewCourse/course/introbiostats/coursePage/index/)
 * Seeing Theory, online book - [Link](https://seeing-theory.brown.edu/)
   * Fantastic review of statistics in an interactive online format
 * Statology - [Link](https://www.statology.org/google-sheets-guides/)
   * Good review of tests, great section in "software tutorials" to explain how to conduct tests in Excel, Google Sheets, Python, R, etc
 
-## Books
+## Books:
 
 * Clinical Data as the Basic Staple of Health Learning: Creating and Protecting a Public Good: Workshop Summary - [Link](https://pubmed.ncbi.nlm.nih.gov/21595112/)
   * Part of the "Learning Health System" series
 * Neural Data Science : A Primer with MATLAB® and Python - [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT\_INST/e8h8hp/alma9991165313406236) (Available via Pitt HSLS)
-* <mark style="background-color:red;">Python for Bioinformatics</mark> [<mark style="background-color:red;">Link</mark>](https://pitt.primo.exlibrisgroup.com/permalink/01PITT\_INST/1sjtb5p/alma9989579233406236) <mark style="background-color:red;">(Available via Pitt HSLS)</mark>
+* Python for Bioinformatics [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT\_INST/1sjtb5p/alma9989579233406236) (Available via Pitt HSLS)
 * Python for Everybody - [Link](https://books.trinket.io/pfe/)
   * Trinket Open book
   * Very easy to read
 * Hands-on exploratory data analysis with python : perform EDA techniques to understand, summarize, and investigate your data - [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT\_INST/e8h8hp/alma9998513356906236) (Pitt ULS)
 * Hands-On Machine Learning with Python and Scikit-Learn - [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT\_INST/e8h8hp/alma9998513356906236) (Available via Pitt HSLS, 2 hours of video)
-* <mark style="background-color:red;">Hands-On PySpark for Big Data Analysis -</mark> [<mark style="background-color:red;">Link</mark>](https://pitt.primo.exlibrisgroup.com/permalink/01PITT\_INST/e8h8hp/alma9998509818406236) <mark style="background-color:red;">(Available via Pitt HSLS)</mark>
+* Hands-On PySpark for Big Data Analysis - [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT\_INST/e8h8hp/alma9998509818406236) (Available via Pitt HSLS)
 * Become a Python Data Analyst: Perform Exploratory Data Analysis and Gain Insight into Scientific Computing Using Python - [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT\_INST/i25aoe/cdi\_askewsholts\_vlebooks\_9781789534405) (Available via Pitt HSLS)
 * Learn Data Analysis with Python: Lessons in Coding - [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT\_INST/i25aoe/cdi\_askewsholts\_vlebooks\_9781484234860) (Available via Pitt HSLS)
 * Hands-On Data Analysis with Pandas: Efficiently Perform Data Collection, Wrangling, Analysis, and Visualization Using Python - [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT\_INST/i25aoe/cdi\_proquest\_ebookcentral\_EBC5842874) (Available via Pitt HSLS)
@@ -119,15 +126,15 @@ description: >-
 * Hands-On Data Visualization: Interactive Storytelling from Spreadsheets to Code, Jack Dougherty Ilya Ilyankou - Open book available via GitHub - [Link](https://handsondataviz.org/github.html)
 * Codeless Deep Learning with KNIME: Build, train, and deploy various deep neural network architectures using KNIME Analytics Platform - [Link](https://www.knime.com/codeless-deep-learning-book)
 
-## Datasets
+## Datasets:
 
 * Mendeley Data Sets - [Link](https://data.mendeley.com/)
   * Mendeley Data is a free and secure cloud-based communal repository where you can store your data, ensuring it is easy to share, access and cite, wherever you are.
 * Synthetic Cardiovascular Risk Dataset, Github hosted - [Link](https://github.com/laderast/cvdRiskData)
   * CVD risk data
 * National Sleep Research Resource, Sleep data sets - [Link](https://sleepdata.org/datasets)
-* <mark style="background-color:red;">Teaching Statistics in the Health Sciences</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">**-**</mark> [<mark style="background-color:red;">Link</mark>](https://www.causeweb.org/tshs/category/dataset/)&#x20;
-  * <mark style="background-color:red;">Teaching Statistics in the Health Sciences, a great repository that matches Data sets (mostly CSV) and papers that use them</mark>
+* Teaching Statistics in the Health Sciences **-** [Link](https://www.causeweb.org/tshs/category/dataset/)&#x20;
+  * Teaching Statistics in the Health Sciences, a great repository that matches Data sets (mostly CSV) and papers that use them
 * UC Irvine Machine Learning Repository - [Link](http://archive.ics.uci.edu/ml/index.php)
   * Popular reference for machine learning data sets
 * Institute for Social Research at University of Michigan - [Link](https://www.icpsr.umich.edu/web/pages/ICPSR/index.html)&#x20;
@@ -142,12 +149,12 @@ description: >-
   * Health Science Library pre-publication data sets - [Link](https://datacatalog.med.nyu.edu/)
   * Curated set of public data sets - [Link](https://guides.nyu.edu/c.php?g=276966\&p=1848679)
 * Berkley Library, University of California, Health Statistics & Data: Datasets/Raw Data - [Link](https://guides.lib.berkeley.edu/publichealth/healthstatistics/rawdata)
-* <mark style="background-color:red;">EMRBots -</mark> [<mark style="background-color:red;">http://www.emrbots.org/</mark>](http://www.emrbots.org/)
+* EMRBots - [https://github.com/kartoun/emrbots](https://github.com/kartoun/emrbots)
   * Experimental artificially generated electronic medical records (EMRs), [Wiki articles](https://en.wikipedia.org/wiki/EMRBots)&#x20;
 * Harvard Dataverse, Med/Health/Life Science tag - [Link](https://dataverse.harvard.edu/dataverse/harvard?q=\&fq0=subject\_ss%3A%22Medicine,%20Health%20and%20Life%20Sciences%22\&types=dataverses%3Adatasets\&sort=dateSort\&order=desc)&#x20;
 * Synthetic EMR Data Set - [https://synthea.mitre.org/Synthethic](https://synthea.mitre.org/) ; Mitre Mass
   * SyntheticMass contains realistic but fictional residents of the state of Massachusetts. The synthetic population aims to statistically mirrors the real population in terms of demographics, disease burden, vaccinations, medical visits, and social determinants.
-* &#x20;<mark style="background-color:yellow;">NIMH Data Archive -</mark> [<mark style="background-color:yellow;">https://nda.nih.gov/</mark>](https://nda.nih.gov/)
+* &#x20;NIMH Data Archive - [https://nda.nih.gov/](https://nda.nih.gov/)
   * National Institute of Mental Health Data Archive (NDA) is a single infrastructure that was initially created through the integration of a set of research data repositories
   * Summary information on the data shared in NDA is available in the NDA Query Tool without the need for an NDA user account. To request access to record-level human subject data, you must submit a Data Access Request.
 * Integrated Public Use Microdata Series - [Link](https://international.ipums.org/international-action/samples)
@@ -156,7 +163,7 @@ description: >-
 * Clinical Practice Research Datalink (CPRD) - [Link](https://www.cprd.com/)
   * Proprietary, Limited Access
   * Clinical Practice Research Datalink (CPRD) is a real-world research service supporting retrospective and prospective public health and clinical studies. CPRD research data services are delivered by the Medicines and Healthcare products Regulatory Agency with support from the National Institute for Health and Care Research (NIHR), as part of the Department of Health and Social Care. (United Kingdom)&#x20;
-* <mark style="background-color:yellow;">Medical Imaging, Osteoarthritis Initiative (OAI) -</mark> [<mark style="background-color:yellow;">https://nda.nih.gov/oai/</mark> ](https://nda.nih.gov/oai/)&#x20;
+* Medical Imaging, Osteoarthritis Initiative (OAI) - [https://nda.nih.gov/oai/ ](https://nda.nih.gov/oai/)&#x20;
   * This website contains the permanent archive of the clinical data, patient reported outcomes, biospecimen analyses, quantitative image analyses, radiographs (X-Rays) and magnetic resonance images (MRIs) acquired during this study. There are longitudinal assessments and measurements from 4,796 subjects, with data from over 431,000 clinical and imaging visits, and almost 26,626,000 images in this archive. More than 400 research manuscripts have already been generated based on this data.
 * NHS, Business Services Authority, Prescribing data - [Link](https://www.nhsbsa.nhs.uk/prescription-data)
   * We provide prescribing, dispensing and organization data to help NHS stakeholders track trends and to inform decisions. Using a wide range of information based on prescribing and dispensing, we create reports specific to user needs and requirements.
@@ -176,9 +183,9 @@ description: >-
 * Sage Data Planet
   * [https://data.sagepub.com/](https://data.sagepub.com/)
 
-## Fun Reads / Videos
+## Fun Reads / Videos:
 
-* <mark style="background-color:red;">Machine Learning in Medicine -</mark> [<mark style="background-color:red;">Link</mark>](http://ml-in-medicine.org/)
+* Machine Learning in Medicine - [Link](http://ml-in-medicine.org/)
   * Virtual Seminar series from Carnegie Mellon University
 * O’Reilly Training - Youtube playlist [Link](https://www.youtube.com/channel/UCFvbB4\_qLYRrOQNuFudz-Mg/search?query=python)
 * Bringing AI to the Underserved Billions - [Link](https://www.ted.com/talks/dr\_rahul\_panicker\_bringing\_ai\_to\_the\_underserved\_billions), Ted Talk 12 minutes
@@ -211,7 +218,7 @@ description: >-
 * An introduction to Python for R Users - [Link](https://www.rebeccabarter.com/blog/2023-09-11-from\_r\_to\_python)
   * Blog post with a basic walkthrough for basic functions like libraries.
 
-## Learning through Application/Cases
+## Learning through Application / Cases:
 
 ### Example applications or tests of knowledge/skills
 
@@ -224,7 +231,7 @@ description: >-
   * Machine learning without code in the browser ([Link](https://www.youtube.com/watch?v=i9tjzr1KME0) YouTube, Google, 10 minutes) - Helpful overview/walkthrough of the website and correlates to steps in machine learning
   * "Experiment with Google" lab: Teachable Machine ([Link](https://experiments.withgoogle.com/teachable-machine)) - Google Creative Lab, no coding required, this launches the "webcam"-based model (others include Audio based)
 
-## Tools
+## Tools:
 
 ### Literature
 
@@ -232,7 +239,7 @@ description: >-
   * TRIPOD [Checklist](https://www.tripod-statement.org/wp-content/uploads/2020/01/Tripod-Checklist-Prediction-Model-Development-and-Validation-PDF.pdf)
   * Method to report study results with a TRIPOD checklist
 
-## Literature
+## Literature:
 
 ### Journals, Collections
 
@@ -309,4 +316,4 @@ description: >-
 * Classification of lapses in smokers attempting to stop: A supervised machine learning approach using data from a popular smoking cessation smartphone app [Link](https://academic.oup.com/ntr/advance-article/doi/10.1093/ntr/ntad051/7086681)
   * Okay article for reviewing use of classification across Random Forest, Support Vector Machine, Penalized Logistic Regression, and Extreme Gradient Boosting.
 
-**Edit Notes - This is a living list with updates and edits, last updated: September 2024**
+**Edit Notes - This is a living list with updates and edits, last updated: October 2024**
