@@ -8,6 +8,8 @@ Tools
 
 ## Information
 
+* Explainer Videos
+  * [https://www.youtube.com/watch?v=2IK3DFHRFfw](https://www.youtube.com/watch?v=2IK3DFHRFfw) - 17 minutes, "white board" style explaination with great details by an individual presenter&#x20;
 * How to cite AI
   * Purdue Library - [https://guides.lib.purdue.edu/c.php?g=1371380\&p=10135074](https://guides.lib.purdue.edu/c.php?g=1371380\&p=10135074)
   * APA Citation - [https://apastyle.apa.org/blog/how-to-cite-chatgpt](https://apastyle.apa.org/blog/how-to-cite-chatgpt)
