@@ -8,7 +8,7 @@ Resources&#x20;
   * Lab curated collection of open courseware for data in healthcare&#x20;
 * Statology, Excel - [Link](https://www.statology.org/excel-guides/)&#x20;
   * Good review of tests, great section in "software tutorials" to explain how to conduct tests in Excel, Google Sheets, Python, R, etc&#x20;
-* Excel 2019 for Health Services Management Statistics, Pitt HSLS/ULS -  Link&#x20;
+* Excel 2019 for Health Services Management Statistics, Pitt HSLS/ULS -  [Link ](https://pitt.primo.exlibrisgroup.com/permalink/01PITT\_INST/i25aoe/cdi\_askewsholts\_vlebooks\_9783030578282)
   * Stats focus (Sample size, Confidence Interval, t-Tests, ANOVA)&#x20;
   * Downloadable PDF textbook with end of chapter practice problems/answers &#x20;
 * Data Carpentry (Data Org in Spreadsheets for Ecologists) - [Link](https://datacarpentry.org/spreadsheet-ecology-lesson/)&#x20;
