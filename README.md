@@ -26,7 +26,7 @@ description: >-
   * List of lists, approachable review of job titles, programs that teach data, and courses online; owned by 2U (edx)
 * [https://datacarpentry.org/](https://datacarpentry.org/)
   * Great teaching and practice of fundamentals ; decreases barrier to entry , enable data-driven research
-* [Knowledge Tree](http://adapt2.sis.pitt.edu/wiki/Knowledge\_Tree)
+* [Knowledge Tree](http://adapt2.sis.pitt.edu/wiki/Knowledge_Tree)
   * Pitt resource from Dr. Peter Brusilovsky
 * [https://pythonhealthcare.org](https://pythonhealthcare.org)
   * defunct as of 2022
@@ -36,7 +36,7 @@ description: >-
 * Forbes Best Free online data science courses in 2019 - [Link](https://www.forbes.com/sites/bernardmarr/2020/02/24/the-9-best-free-online-data-science-courses-in-2020/#669fdab32bbf)
 * Data Camp - [Link](https://www.datacamp.com/community/open-courses)
   * Python plus many other languages
-* Data Science Plus - [Link](https://datascienceplus.com/category/introduction/?tdo\_tag=Python)
+* Data Science Plus - [Link](https://datascienceplus.com/category/introduction/?tdo_tag=Python)
   * Impressive review of Stats Methods (Linear regression)
 * Kaggle - [Kaggle.com](https://www.kaggle.com/)
   * Data science community with full and short courses ; public data sets ; public examples of data projects ; competitions, great resource for introductory learners
@@ -44,11 +44,11 @@ description: >-
   * Open learning resources, Principles of Computation with Python, course with content/quizzes, includes programming/data/encryption/cellular automaton, has free access to view and requires free account for full features
 * Artificial Intelligence in Healthcare, Stanford Certificate program - [Link](https://online.stanford.edu/programs/artificial-intelligence-healthcare)
   * Four course series related to clinical data, fundamentals of ML for healthcare, Evaluation of AI in Healthcare, and Capstone
-* OurCodingClub - Python Tutorial [Link](https://ourcodingclub.github.io/tutorials/python\_crash\_course/)
+* OurCodingClub - Python Tutorial [Link](https://ourcodingclub.github.io/tutorials/python_crash_course/)
   * Github site hosted course with easy to follow tutorials, originally meant for Ecosciences
 * Learning Python: basic level [Link](https://github.com/kgdunn/python-basic-notebooks)
   * Kevin Dunn's fantastic review of concepts. From the site: The topics listed below give an idea of what is covered. Within in each notebook are a series of simple or more challenging problems. The problems are designed to build on the topics just learned, as well as the topics from earlier notebooks.
-* Lab in Cognition and Perception online textbook by Todd Gureckis, Brenden M. Lake and others [Link](https://cims.nyu.edu/\~brenden/courses/labincp/intro.html)
+* Lab in Cognition and Perception online textbook by Todd Gureckis, Brenden M. Lake and others [Link](https://cims.nyu.edu/~brenden/courses/labincp/intro.html)
   * While thematically based on cognition/perception, has a hands-on approach to Jupyter and Python. Great content for concepts like Linear Regression and Python resources
 * [https://www.freecodecamp.org/learn/machine-learning-with-python/](https://www.freecodecamp.org/learn/machine-learning-with-python/)&#x20;
 
@@ -68,17 +68,17 @@ description: >-
   * User "Telusko" ; 100 + lessons
   * Download/Install python, Using python, Getting started with python, Variables, Functions, Object, List in python and more by navin reddy
   * Approx 10 - 15 minutes videos
-* Python Beginner Course - [Link](https://www.youtube.com/playlist?list=PLCVs\_S8Skwp8MzELbLAm-v9wbUS-toTkt)
+* Python Beginner Course - [Link](https://www.youtube.com/playlist?list=PLCVs_S8Skwp8MzELbLAm-v9wbUS-toTkt)
   * Basics of syntax ; Some specific exercises like building a random color generator
 * “Data Professor” - Python search playlist - [Link](https://www.youtube.com/channel/UCV8e2g4IWQqK71bbzGDEI4Q/search?query=python)
   * Vast array and breath/depth of topics in data science from single user including language specific content, conceptual videos, and interviews with others in data science
 * "Healthcare Data Analytics" - [Link](https://www.youtube.com/watch?v=zMdPAwXX8-M\&list=PLtkf1CzQAYcE6Ob6Yv6PLFQFIhvR7nWl8)
   * Tools as a resource "Health IT Curriculum Resources for Educators" from HealthIT.gov's Workflow Development program
-* Working with Medication Data - [Link](https://www.youtube.com/playlist?list=PL5nX2n0FFN36phdTvbDP9zS\_q2-iP8Sip)
+* Working with Medication Data - [Link](https://www.youtube.com/playlist?list=PL5nX2n0FFN36phdTvbDP9zS_q2-iP8Sip)
 
 ## Other Locations of Information:
 
-* OHSU - Wiki that reviews other resources - [Main page](https://www.clinfowiki.org/wiki/index.php/Main\_Page), [Article list](https://www.clinfowiki.org/wiki/index.php/Category:HI5313-2015-FALL)
+* OHSU - Wiki that reviews other resources - [Main page](https://www.clinfowiki.org/wiki/index.php/Main_Page), [Article list](https://www.clinfowiki.org/wiki/index.php/Category:HI5313-2015-FALL)
   * Mainly a review of clinical informatics (how does a clinician informaticists think about systems and data)
 * “The Ultimate Data Science Prerequisite Learning List” - [Link](https://towardsdatascience.com/the-ultimate-data-science-prerequisite-learning-list-348ce89805f9)
   * List of List
@@ -93,8 +93,8 @@ description: >-
 ## Statistics Materials:
 
 * YouTube “Stats Quest” - Josh Starmer - [Link](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
-  * Excellent review in breadth and depth of topics. Videos like ["Gentle Introduction to Machine Learning"](https://www.youtube.com/watch?v=Gv9\_4yMHFhI) are immensely valuable to new learners.
-* UTHealth - Biostatistics for the Clinician - [Link](https://www.uth.tmc.edu/uth\_orgs/educ\_dev/oser/L1\_TOC.HTM)
+  * Excellent review in breadth and depth of topics. Videos like ["Gentle Introduction to Machine Learning"](https://www.youtube.com/watch?v=Gv9_4yMHFhI) are immensely valuable to new learners.
+* UTHealth - Biostatistics for the Clinician - [Link](https://www.uth.tmc.edu/uth_orgs/educ_dev/oser/L1_TOC.HTM)
 * YouTube - Brandon Fultz - [Link](https://www.youtube.com/user/BCFoltz)
 * BMJ Statistics - [Link](https://www.bmj.com/about-bmj/resources-readers/publications/statistics-square-one)
 * Kenyon - Biology - [Link](http://biology.kenyon.edu/courses/biol09/stats.htm)
@@ -111,18 +111,18 @@ description: >-
 
 * Clinical Data as the Basic Staple of Health Learning: Creating and Protecting a Public Good: Workshop Summary - [Link](https://pubmed.ncbi.nlm.nih.gov/21595112/)
   * Part of the "Learning Health System" series
-* Neural Data Science : A Primer with MATLAB® and Python - [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT\_INST/e8h8hp/alma9991165313406236) (Available via Pitt HSLS)
-* Python for Bioinformatics [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT\_INST/1sjtb5p/alma9989579233406236) (Available via Pitt HSLS)
+* Neural Data Science : A Primer with MATLAB® and Python - [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT_INST/e8h8hp/alma9991165313406236) (Available via Pitt HSLS)
+* Python for Bioinformatics [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT_INST/1sjtb5p/alma9989579233406236) (Available via Pitt HSLS)
 * Python for Everybody - [Link](https://books.trinket.io/pfe/)
   * Trinket Open book
   * Very easy to read
-* Hands-on exploratory data analysis with python : perform EDA techniques to understand, summarize, and investigate your data - [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT\_INST/e8h8hp/alma9998513356906236) (Pitt ULS)
-* Hands-On Machine Learning with Python and Scikit-Learn - [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT\_INST/e8h8hp/alma9998513356906236) (Available via Pitt HSLS, 2 hours of video)
-* Hands-On PySpark for Big Data Analysis - [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT\_INST/e8h8hp/alma9998509818406236) (Available via Pitt HSLS)
-* Become a Python Data Analyst: Perform Exploratory Data Analysis and Gain Insight into Scientific Computing Using Python - [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT\_INST/i25aoe/cdi\_askewsholts\_vlebooks\_9781789534405) (Available via Pitt HSLS)
-* Learn Data Analysis with Python: Lessons in Coding - [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT\_INST/i25aoe/cdi\_askewsholts\_vlebooks\_9781484234860) (Available via Pitt HSLS)
-* Hands-On Data Analysis with Pandas: Efficiently Perform Data Collection, Wrangling, Analysis, and Visualization Using Python - [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT\_INST/i25aoe/cdi\_proquest\_ebookcentral\_EBC5842874) (Available via Pitt HSLS)
-* Python for data analysis : data wrangling with pandas, NumPy, and IPython - [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT\_INST/e8h8hp/alma9998573136806236) (Available via Pitt HSLS)
+* Hands-on exploratory data analysis with python : perform EDA techniques to understand, summarize, and investigate your data - [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT_INST/e8h8hp/alma9998513356906236) (Pitt ULS)
+* Hands-On Machine Learning with Python and Scikit-Learn - [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT_INST/e8h8hp/alma9998513356906236) (Available via Pitt HSLS, 2 hours of video)
+* Hands-On PySpark for Big Data Analysis - [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT_INST/e8h8hp/alma9998509818406236) (Available via Pitt HSLS)
+* Become a Python Data Analyst: Perform Exploratory Data Analysis and Gain Insight into Scientific Computing Using Python - [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT_INST/i25aoe/cdi_askewsholts_vlebooks_9781789534405) (Available via Pitt HSLS)
+* Learn Data Analysis with Python: Lessons in Coding - [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT_INST/i25aoe/cdi_askewsholts_vlebooks_9781484234860) (Available via Pitt HSLS)
+* Hands-On Data Analysis with Pandas: Efficiently Perform Data Collection, Wrangling, Analysis, and Visualization Using Python - [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT_INST/i25aoe/cdi_proquest_ebookcentral_EBC5842874) (Available via Pitt HSLS)
+* Python for data analysis : data wrangling with pandas, NumPy, and IPython - [Link](https://pitt.primo.exlibrisgroup.com/permalink/01PITT_INST/e8h8hp/alma9998573136806236) (Available via Pitt HSLS)
 * Hands-On Data Visualization: Interactive Storytelling from Spreadsheets to Code, Jack Dougherty Ilya Ilyankou - Open book available via GitHub - [Link](https://handsondataviz.org/github.html)
 * Codeless Deep Learning with KNIME: Build, train, and deploy various deep neural network architectures using KNIME Analytics Platform - [Link](https://www.knime.com/codeless-deep-learning-book)
 
@@ -151,7 +151,7 @@ description: >-
 * Berkley Library, University of California, Health Statistics & Data: Datasets/Raw Data - [Link](https://guides.lib.berkeley.edu/publichealth/healthstatistics/rawdata)
 * EMRBots - [https://github.com/kartoun/emrbots](https://github.com/kartoun/emrbots)
   * Experimental artificially generated electronic medical records (EMRs), [Wiki articles](https://en.wikipedia.org/wiki/EMRBots)&#x20;
-* Harvard Dataverse, Med/Health/Life Science tag - [Link](https://dataverse.harvard.edu/dataverse/harvard?q=\&fq0=subject\_ss%3A%22Medicine,%20Health%20and%20Life%20Sciences%22\&types=dataverses%3Adatasets\&sort=dateSort\&order=desc)&#x20;
+* Harvard Dataverse, Med/Health/Life Science tag - [Link](https://dataverse.harvard.edu/dataverse/harvard?q=\&fq0=subject_ss%3A%22Medicine,%20Health%20and%20Life%20Sciences%22\&types=dataverses%3Adatasets\&sort=dateSort\&order=desc)&#x20;
 * Synthetic EMR Data Set - [https://synthea.mitre.org/Synthethic](https://synthea.mitre.org/) ; Mitre Mass
   * SyntheticMass contains realistic but fictional residents of the state of Massachusetts. The synthetic population aims to statistically mirrors the real population in terms of demographics, disease burden, vaccinations, medical visits, and social determinants.
 * &#x20;NIMH Data Archive - [https://nda.nih.gov/](https://nda.nih.gov/)
@@ -187,9 +187,9 @@ description: >-
 
 * Machine Learning in Medicine - [Link](http://ml-in-medicine.org/)
   * Virtual Seminar series from Carnegie Mellon University
-* O’Reilly Training - Youtube playlist [Link](https://www.youtube.com/channel/UCFvbB4\_qLYRrOQNuFudz-Mg/search?query=python)
-* Bringing AI to the Underserved Billions - [Link](https://www.ted.com/talks/dr\_rahul\_panicker\_bringing\_ai\_to\_the\_underserved\_billions), Ted Talk 12 minutes
-* How to keep human bias out of AI - [Link](https://www.ted.com/talks/kriti\_sharma\_how\_to\_keep\_human\_bias\_out\_of\_ai), Ted Talk 12 minutes
+* O’Reilly Training - Youtube playlist [Link](https://www.youtube.com/channel/UCFvbB4_qLYRrOQNuFudz-Mg/search?query=python)
+* Bringing AI to the Underserved Billions - [Link](https://www.ted.com/talks/dr_rahul_panicker_bringing_ai_to_the_underserved_billions), Ted Talk 12 minutes
+* How to keep human bias out of AI - [Link](https://www.ted.com/talks/kriti_sharma_how_to_keep_human_bias_out_of_ai), Ted Talk 12 minutes
 * ONC Overview of HealthCare Data Analytics - [Link](https://www.youtube.com/watch?v=8vQWWNhjffc) 20 minutes
 * Data Science in Healthcare, PyData NYC 2018 - [Link](https://www.youtube.com/watch?v=Z9JZjc489XA)
 * BD2K - Exploratory Data Analysis - [Link](https://www.youtube.com/watch?v=5rTb6AkKhds) 60 minutes
@@ -213,16 +213,16 @@ description: >-
   * Simple article that covers many basics of Python
 * Data Science Solutions for Digital Healthcare - [Link](https://www.knime.com/blog/7-data-science-solutions-in-digital-healthcare)
   * Collection of low/no code workflows when working with KNIME Platform. ex. Vanco dosing in obesity, Predicting patient glucose levels, Natural Language Processing for disease tagging in literature.
-* Data Literacy for the Busy Librarian - [Link](https://www.youtube.com/playlist?list=PL1k4bdjLd7TDoHF732Oi9DGqHGk\_eOKf4)
+* Data Literacy for the Busy Librarian - [Link](https://www.youtube.com/playlist?list=PL1k4bdjLd7TDoHF732Oi9DGqHGk_eOKf4)
   * 10 videos from National Librarian of Medicine (Shout out Nancy Shin from UWashington) that covers Data life cycle, documentation, standards, SNOMED, RxNorm, UMLS, Data security, Data sharing, Visualizations. Videos are 5-20 minutes. Easy to understand and great introductions.
-* An introduction to Python for R Users - [Link](https://www.rebeccabarter.com/blog/2023-09-11-from\_r\_to\_python)
+* An introduction to Python for R Users - [Link](https://www.rebeccabarter.com/blog/2023-09-11-from_r_to_python)
   * Blog post with a basic walkthrough for basic functions like libraries.
 
 ## Learning through Application / Cases:
 
 ### Example applications or tests of knowledge/skills
 
-* Public vs. Private payer data sets [Link](https://github.com/domdisanto/Python\_OER)
+* Public vs. Private payer data sets [Link](https://github.com/domdisanto/Python_OER)
   * Comparing patient records at a sample data set from public vs. private payers
   * Considerations of medication and classification of opioids
   * Created by [Dominic DiSanto](https://www.linkedin.com/in/dominic-disanto) as a part of University of Pittsburgh Office of the Provost [Open Education Resources Grants](https://www.provost.pitt.edu/OER)
@@ -300,20 +300,22 @@ description: >-
 * Long-term Effect of Machine Learning-Triggered Behavioral Nudges on Serious Illness Conversations and End-of-Life Outcomes Among Patients With Cancer: A Randomized Clinical Trial - [Link](https://pubmed.ncbi.nlm.nih.gov/36633868/)
   * Interesting application of machine learning for behavioral nudges of prompting serious illness conversations
 * Predicting physician departure with machine learning on EHR use patterns: A longitudinal cohort from a large multi-specialty ambulatory practice [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280251)
-  * Uses XGBoost for predication, Shapley Additive Explanations (SHAP) used for feature contribution. The neat component is the granualar detail (though without the data) from the cleaning process available on [Github](https://github.com/kevkid/physician\_retention\_2.0)
+  * Uses XGBoost for predication, Shapley Additive Explanations (SHAP) used for feature contribution. The neat component is the granualar detail (though without the data) from the cleaning process available on [Github](https://github.com/kevkid/physician_retention_2.0)
 * Machine learning to improve frequent emergency department use prediction: a retrospective cohort study [Link](https://www.nature.com/articles/s41598-023-27568-6)
   * Tested models against each other: Gradient boosting machines (GBM); Naïve Bayes (NB); Neural networks (NN); Random forests (RF). Similar to other studies, no model clearly outperformed the others.
 * Explainable Data-Driven Hypertension Identification Using Inpatient EMR Clinical Notes [Link](https://www.nature.com/articles/s41598-023-27568-6)
   * Interesting comparison of approaches to classifying hypertension (e.g. ICD vs. Measurements). Code available via [Github](https://github.com/centre-for-health-informatics/Hypertension-Case-Identification)
 * Natural Language Processing for Automated Quantification of Brain Metastases Reported in Free-Text Radiology Reports [Link](https://ascopubs.org/doi/full/10.1200/CCI.18.00138)
-  * Review of a Natural language text approach to free-text radiology reports, a great sample file in the [Github ](https://github.com/jtsenders/nlp\_brain\_metastasis/blob/master/met\_nlp\_open\_source.ipynb)report that describes the search process (no data available though), iteration (great example of how to run multiple tests), and viewing results.
+  * Review of a Natural language text approach to free-text radiology reports, a great sample file in the [Github ](https://github.com/jtsenders/nlp_brain_metastasis/blob/master/met_nlp_open_source.ipynb)report that describes the search process (no data available though), iteration (great example of how to run multiple tests), and viewing results.
 * Evidence from ClinicalTrials.gov on the growth of Digital Health Technologies in neurology trials [Link](https://www.nature.com/articles/s41746-023-00767-1)
-  * Content is of interest for digital health but the real neat part is the open sharing of the notes. The [Github](https://github.com/Entspannter/DHTs-in-neurology-trials/blob/main/aggregated\_analysis\_Dec22.ipynb) shares the data and the Python code related to the data visualization.
+  * Content is of interest for digital health but the real neat part is the open sharing of the notes. The [Github](https://github.com/Entspannter/DHTs-in-neurology-trials/blob/main/aggregated_analysis_Dec22.ipynb) shares the data and the Python code related to the data visualization.
 * Predictive models in emergency medicine and their missing data strategies: a systematic review [Link](https://www.nature.com/articles/s41746-023-00770-6)
   * Good review for missing data in healthcare, good figure for comparing dropping vs. Mean/Mode vs. Imputation
 * Machine learning in medicine: Performance calculation of dementia prediction by support vector machines (SVM) [Link](https://www.sciencedirect.com/science/article/pii/S2352914819300917)
   * Application of SVM for predicting Dementia, data available via [Mendeley Data](https://data.mendeley.com/datasets/tsy6rbc5d4/1) for 149 observations (non-binary outcomes: Non-Demented, Demented, Converted)
 * Classification of lapses in smokers attempting to stop: A supervised machine learning approach using data from a popular smoking cessation smartphone app [Link](https://academic.oup.com/ntr/advance-article/doi/10.1093/ntr/ntad051/7086681)
   * Okay article for reviewing use of classification across Random Forest, Support Vector Machine, Penalized Logistic Regression, and Extreme Gradient Boosting.
+* A procedural overview of why, when and how to use machine learning for psychiatry
+  * Limited access (not open access), Jupyter Notebook available in Supplemental data with great arc of loading data, reviewing, exploratory data analysis, analysis, and conclusion. Some challenges in running but overall valuable to veiw and see explanations.&#x20;
 
 **Edit Notes - This is a living list with updates and edits, last updated: October 2024**
