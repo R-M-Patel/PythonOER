@@ -8,6 +8,8 @@ Tools
 
 ## Information
 
+* Review of AI Drift from ASHP (Author, Scott Nelson)&#x20;
+  * [https://www.ashp.org/-/media/assets/pharmacy-practice/resource-centers/Digital-Health-and-Artificial-Intelligence/docs/When-AI-Goes-Astray.pdf](https://www.ashp.org/-/media/assets/pharmacy-practice/resource-centers/Digital-Health-and-Artificial-Intelligence/docs/When-AI-Goes-Astray.pdf)
 * Explainer Videos
   * [https://www.youtube.com/watch?v=2IK3DFHRFfw](https://www.youtube.com/watch?v=2IK3DFHRFfw) - 17 minutes, "white board" style explaination with great details by an individual presenter&#x20;
 * How to cite AI
@@ -15,7 +17,7 @@ Tools
   * APA Citation - [https://apastyle.apa.org/blog/how-to-cite-chatgpt](https://apastyle.apa.org/blog/how-to-cite-chatgpt)
 * UN AI Framework (K-12) - [https://unevoc.unesco.org/home/Digital+Competence+Frameworks](https://unevoc.unesco.org/home/Digital+Competence+Frameworks)
 * Lance Eaton
-  * [https://www.linkedin.com/posts/leaton01\_syllabi-policies-for-ai-generative-tools-activity-7094307529974800384-WEVc](https://www.linkedin.com/posts/leaton01\_syllabi-policies-for-ai-generative-tools-activity-7094307529974800384-WEVc)  - LinkedIn post about his AI-Syllabi and related language
+  * [https://www.linkedin.com/posts/leaton01\_syllabi-policies-for-ai-generative-tools-activity-7094307529974800384-WEVc](https://www.linkedin.com/posts/leaton01_syllabi-policies-for-ai-generative-tools-activity-7094307529974800384-WEVc)  - LinkedIn post about his AI-Syllabi and related language
   * [https://aiedusimplified.substack.com/](https://aiedusimplified.substack.com/) - Just a great substack on the topic&#x20;
 
 ## Literature
