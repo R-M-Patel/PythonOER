@@ -89,6 +89,7 @@ description: >-
   * List of open source machine learning projects hosted on Github
 * Johns Hopkins Data Science Lab - [https://jhudatascience.org/index.html](https://jhudatascience.org/index.html)
   * Great resource of MOOC for R, open textbooks (Leadership in Cancer Informatics) and other resources.&#x20;
+* Course on Infodemiology: [https://training.infodemiology.com/healthcare](https://training.infodemiology.com/healthcare)
 
 ## Statistics Materials:
 
