@@ -4,6 +4,7 @@ Tools
 
 ## Tools
 
+* [https://storm.genie.stanford.edu/](https://storm.genie.stanford.edu/) - Generate wikipedia-style article on topic
 * [https://www.openevidence.com/](https://www.openevidence.com/) - Open evidence AI
 
 ## Information
