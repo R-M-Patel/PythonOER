@@ -183,6 +183,11 @@ description: >-
   * [https://www.mimilabs.ai/datacatalog#state-government-databases-mimi-ws-1-stategov](https://www.mimilabs.ai/datacatalog#state-government-databases-mimi-ws-1-stategov)
 * Sage Data Planet
   * [https://data.sagepub.com/](https://data.sagepub.com/)
+* Phyio - [https://physionet.org/about/database/](https://physionet.org/about/database/)
+  * List of open data sets related to physiologic systems
+  * [https://physionet.org/content/cgmacros/1.0.0/](https://physionet.org/content/cgmacros/1.0.0/)
+    * Great data set documentation about data dictionaries from this CGM data set
+    * Also includes jupyter notebook with scripts to parse
 
 ## Fun Reads / Videos:
 
