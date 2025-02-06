@@ -6,6 +6,8 @@ Tools
 
 * [https://storm.genie.stanford.edu/](https://storm.genie.stanford.edu/) - Generate wikipedia-style article on topic
 * [https://www.openevidence.com/](https://www.openevidence.com/) - Open evidence AI
+* [https://elicit.com/](https://elicit.com/) - AI Research "Assistant"&#x20;
+* [https://openai.com/index/introducing-deep-research/](https://openai.com/index/introducing-deep-research/) - Reported styled output of questions/topics
 
 ## Information
 
