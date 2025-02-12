@@ -189,6 +189,13 @@ description: >-
     * Great data set documentation about data dictionaries from this CGM data set
     * Also includes jupyter notebook with scripts to parse
 
+### All of us WorkBench:&#x20;
+
+* Data Browser: [https://databrowser.researchallofus.org](https://databrowser.researchallofus.org/)
+* University of Pittsburgh, Health Sciences Library System
+  * Github hosted Python (and R) templates: [https://github.com/AlexisCenname/HSLSCodeTemplates/blob/main/ConditionAssociation/Python%20Templates/Python-Association-SyntheticData.ipynb](https://github.com/AlexisCenname/HSLSCodeTemplates/blob/main/ConditionAssociation/Python%20Templates/Python-Association-SyntheticData.ipynb)
+    * [Video (time stamp “1:31:29”) ](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=555bcbbb-47e3-416e-8d2c-b1ee01345a02)- Pitt hosted/acces
+
 ## Fun Reads / Videos:
 
 * Machine Learning in Medicine - [Link](http://ml-in-medicine.org/)
