@@ -9,7 +9,9 @@
   * [https://mystery.knightlab.com/walkthrough.html](https://mystery.knightlab.com/walkthrough.html)
   * [https://sqlpd.com/](https://sqlpd.com/)
   * [https://selectstarsql.com/](https://selectstarsql.com/)
-  * [https://sqlzoo.net/wiki/SQL\_Tutorial](https://sqlzoo.net/wiki/SQL\_Tutorial)
+  * [https://sqlzoo.net/wiki/SQL\_Tutorial](https://sqlzoo.net/wiki/SQL_Tutorial)
   * [https://sqlbolt.com/](https://sqlbolt.com/)
   * [https://schemaverse.com/](https://schemaverse.com/)
 * [https://sqlfordatascientists.com/](https://sqlfordatascientists.com/)
+* [https://intro-sql-fh.netlify.app/](https://intro-sql-fh.netlify.app/)
+  * Great course shared by the incomparable Ted Laras for intro to SQL concepts&#x20;
