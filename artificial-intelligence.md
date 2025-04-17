@@ -11,6 +11,8 @@ Tools
 
 ## Information
 
+* Learning prompting website - [https://learnprompting.org/](https://learnprompting.org/)
+  * [ChatGPT for Everyone ](https://learnprompting.org/courses/chatgpt-for-everyone)is a course with a great review of content for what is AI, prompt generation, and&#x20;
 * Review of AI Drift from ASHP (Author, Scott Nelson)&#x20;
   * [https://www.ashp.org/-/media/assets/pharmacy-practice/resource-centers/Digital-Health-and-Artificial-Intelligence/docs/When-AI-Goes-Astray.pdf](https://www.ashp.org/-/media/assets/pharmacy-practice/resource-centers/Digital-Health-and-Artificial-Intelligence/docs/When-AI-Goes-Astray.pdf)
 * Explainer Videos
