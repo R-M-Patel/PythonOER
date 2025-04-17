@@ -335,6 +335,6 @@ description: >-
 * A procedural overview of why, when and how to use machine learning for psychiatry
   * Limited access (not open access), Jupyter Notebook available in Supplemental data with great arc of loading data, reviewing, exploratory data analysis, analysis, and conclusion. Some challenges in running but overall valuable to veiw and see explanations.&#x20;
 * Predicting diabetes mellitus metabolic goals and chronic complications transitions—analysis based on natural language processing and machine learning models - [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0321258)
-  * Python/Notebook code available for the machine learning/content (Github)
+  * Python/Notebook code available for the machine learning/content ([Github](https://github.com/androdri1/diabetesprogression/blob/main/diabetesprogression/scripts/04_01_marginals%20-%20final.ipynb))
 
 **Edit Notes - This is a living list with updates and edits, last updated: October 2024**
