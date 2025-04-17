@@ -188,6 +188,10 @@ description: >-
   * [https://physionet.org/content/cgmacros/1.0.0/](https://physionet.org/content/cgmacros/1.0.0/)
     * Great data set documentation about data dictionaries from this CGM data set
     * Also includes jupyter notebook with scripts to parse
+* Stanford University Human-Centered Artificial Intelligence (HAI) - open-source data sets
+  * EHRSHOT: An EHR Benchmark for Few-Shot Evaluation of Foundation Models
+  * INSPECT: A Multimodal Dataset for Patient Outcome Prediction of Pulmonary Embolisms
+  * MedAlign: A Clinician-Generated Dataset for Instruction Following with Electronic Medical Records
 
 ### All of us WorkBench:&#x20;
 
@@ -330,5 +334,7 @@ description: >-
   * Okay article for reviewing use of classification across Random Forest, Support Vector Machine, Penalized Logistic Regression, and Extreme Gradient Boosting.
 * A procedural overview of why, when and how to use machine learning for psychiatry
   * Limited access (not open access), Jupyter Notebook available in Supplemental data with great arc of loading data, reviewing, exploratory data analysis, analysis, and conclusion. Some challenges in running but overall valuable to veiw and see explanations.&#x20;
+* Predicting diabetes mellitus metabolic goals and chronic complications transitions—analysis based on natural language processing and machine learning models - [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0321258)
+  * Python/Notebook code available for the machine learning/content (Github)
 
 **Edit Notes - This is a living list with updates and edits, last updated: October 2024**
